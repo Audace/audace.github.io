@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               William R Fry
+tagline:             Personal Blog
+url:                 http://williamrfry.com
 paginate:            1
 baseurl:             ""
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Will Fry
+  url:               https://twitter.com/williamrfry
+  email:             wrfry95@gmail.com
 
 # Custom vars
 version:             2.0.0
