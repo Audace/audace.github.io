@@ -5,7 +5,6 @@ comments: true
 ---
 
 ##Introduction
-
 - Rabindrunath Tagore
     - Bengali polymath (late 19th and early 20th centuries)
     - Highly influential in introducing the best of Indian culture to the West and vice versa.
@@ -202,7 +201,6 @@ comments: true
     - MTNL: Mahanagar Telephone Nigam Limited — main urban state-owned telecom company
 
 ##2: The Burra Sahibs (The Long Tentacles of India’s State)
-
 - Characteristics of all forms of government
     - Lack of use of new technology (computes, vacuum cleaners)
     - Projects not difficult if complacent with corruption and indifferent about final outcome
@@ -292,7 +290,6 @@ comments: true
             - They were brought in to break up strikes and bring replacement workers
 
 ##3: Battle of the Righteous (The Rise of India’s Lower Caste)
-
 - dharma: duty or religion
 - Dharma of castes (the 4 Varnas)
     - (1) Brahmin (priest): control over all spiritual and religious aspects
@@ -372,7 +369,6 @@ comments: true
     - National Rural Employment Guarantee Act (NREGA)
 
 ##4: Imaginary Horse (The Continuing Threat of Hindu Nationalism)
-
 - Nagpur
     - Second capital and third most populous city of Maharashtra
     - Headquarters for the Hindu nationalist organization RSS
@@ -466,7 +462,6 @@ comments: true
     - Close attachment to RSS
 
 ##5: Long Live the Sycophants (The Congress Party’s Continuing Love Affair with the Nehru-Gandhi Dynasty)
-
 - Sonia Gandhi, married Rajiv Gandhi, the son of Indira and the grandson of Jawaharlal Nehru
     - She was from Italy and studied at Cambridge
     - Tried to dissuade Rajiv from going into politics
@@ -553,7 +548,6 @@ comments: true
         - Telangana used to be a state in India before it was dissolved as part of the linguistic reorganization of the states. The Telugu speaking part of the Hyderabad state was merged with Andhra State to form Andhra Pradesh
 
 ##6: Many Crescents (South Asia’s Divided Muslims)
-
 - fatwa: ruling on a point of Islamic law
 - Deoband, the center of Islamic orthodoxy in south Asia
     - Founded in the aftermath of the failed Sepoy Mutiny against the British by rebel Indian regiments in 1857
@@ -689,7 +683,6 @@ comments: true
 - According to India’s government, on any given day 1/3 of teachers are absent from government schools
 
 ##7: A Triangular Dance (Why India’s Relations with the U.S. and China Will Shape the World in the 21st Century)
-
 - May 1998: New Delhi ordered underground testing of five nuclear weapons
     - Two weeks later Pakistan tested six nuclear warheads
 - India’s success in software and “complex manufacturing” are pushing forward country as an economic power
