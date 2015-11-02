@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               William R Fry
-tagline:             Personal Blog
+tagline:             
 url:                 http://williamrfry.com
 paginate:            1
 baseurl:             ""
