@@ -10,6 +10,7 @@ tagline:
 url:                 http://williamrfry.com
 paginate:            3
 baseurl:             ""
+excerpt_separator: <!--more-->
 
 pages_list:
   About: '/about'
