@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Notes on *In Spite of the Gods* by Edward Luce
+title: Reading Notes&#58; In Spite of the Gods by Edward Luce
 comments: true
 ---
 
