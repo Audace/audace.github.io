@@ -3,28 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Will Fry, and I'm a junior at the University of Pennsylvania. I study international studies and business, as a student in the [Huntsman Program](http://huntsman.upenn.edu/). My interests lie in tech, philosophy, music and entrepreneurship.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm currently working on a project related to program synthesis and doing freelance development for a VC and startup. Previously, I've been an engineering intern for [First Round Capital's](http://firstround.com/) Platform Team. During my first two years of school, I served on [Dorm Room Fund](http://dormroomfund.com/) as an investment team member and, subsequently, a managing partner. Prior to that, I interned at [RaisedBy.Us](http://raisedby.us/) and [Two Toasters](http://twotoasters.com) (recently acquired by Ticketmaster).
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I speak German (and studied abroad in Berlin in Spring '15). I program in Node.js, Python and Rails.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Reach out to me on twitter [@williamrfry](http://twitter.com/williamrfry).
