@@ -6,6 +6,8 @@ comments: true
 
 I was recently putting together some information for a friend, who’s interning in finance, about the pros and cons of Github, to help with evaluating the company. The following is a brief breakdown of what I found in about 15 minutes of researching and drawing on experience.
 
+<!--more-->
+
 ##What Is Github?
 Github, per Wikipedia, is a web-based hosting service that uses Git as the standard RVS (revision control system). An easy way to think about revision control is writing. Say you’re writing a book chapter by chapter and want to save different versions, in case you want to go back and change one piece or insert another. The site was launched in April of ’08, and boasts a couple million users with over 13 million repositories.
 

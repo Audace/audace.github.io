@@ -3,6 +3,9 @@ layout: post
 title: Reading Notes&#58; In Spite of the Gods by Edward Luce
 comments: true
 ---
+The following are detailed notes that I took after reading Edward Luce's book [*In Spite of the Gods: The Rise of Modern India*](http://www.amazon.com/In-Spite-Gods-Modern-India/dp/1400079772), which discusses many aspects of India's society and history. It views India as a rising economic power that still remains trapped by a large range of social and economic problems.
+
+<!--more-->
 
 ##Introduction
 - Rabindrunath Tagore

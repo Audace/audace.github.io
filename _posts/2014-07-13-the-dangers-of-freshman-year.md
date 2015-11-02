@@ -5,6 +5,8 @@ comments: true
 ---
 After completing my freshman year at Penn, I took a bit of time to reflect on what I could have done better or differently. I found a recurring theme that explained my performance, that is to say that I lacked any form of goals for my time at Penn. The steps leading up to my first year of college did not help.
 
+<!--more-->
+
 From the time I was about 6 years old to graduating high school, there was a systematic checklist that I went through at each stage of adolescence to guarantee success in the next phase. In elementary school, it was learning basic math, writing and social skills. In middle school, it was being active in sports, extracurriculars, and performing well in school, to setup habits for high school and guarantee placement in the upper level math courses. In high school, everything was taken to the next level. I made perfect grades, took 10 AP courses, played sports all three seasons, and was active in multiple clubs and service organizations. I was subsequently accepted into the Huntsman Program at the University of Pennsylvania and had locked up an internship at a startup for the summer.
 And bam, the cycle was completed, the checklist worked, and I was left without an institutionalized roadmap for the next four years of my life.
 
