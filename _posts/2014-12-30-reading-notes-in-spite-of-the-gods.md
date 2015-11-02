@@ -1,0 +1,900 @@
+---
+layout: post
+title: Reading Notes: In Spite of the Gods by Edward Luce
+comments: true
+---
+
+##Introduction
+
+- Rabindrunath Tagore
+    - Bengali polymath (late 19th and early 20th centuries)
+    - Highly influential in introducing the best of Indian culture to the West and vice versa.
+    - Denounced the Raj and advocated independence
+    - Compositions were chosen as national anthems by India and Bangladesh
+    - “The villages are the cradle of the [Indian] life, and if we do not give them what is due to them, then we commit suicide"
+- Vedantic philosophy
+    - Philosophic portion of the ancient scriptures of India, the Vedas.
+- Sri Aurobindo
+    - Indian nationalist, philosopher, yogi, guru, and poet
+    - Joined Indian movement for independence
+    - Spiritual reformer, introduced his visions on human progress and spiritual evolution
+    - Main literary works are The Life Divine
+- Bhagavad Gita
+    - Means “The Song of the Bhagavan"
+    - 700-verse Hindu scripture that is part of the Hindu epic Mahabharata
+    - Presents synthesis of the Brahmanical concept of Dharma, theistic bhakti, the yogic ideals, and Samkhya philosophy
+    - Gandhi referred to the Gita as his “spiritual dictionary"
+- Mira Alfassa (Mother)
+    - Spiritual collaborator of Sri Aurobindo
+- “Supramentalism"
+- Auroville
+    - Experimental township
+    - "Auroville is meant to be a universal town where men and women of all countries are able to live in peace and progressive harmony, above all creeds, all politics and all nationalities. The purpose of Auroville is to realize human unity."
+- Amartya Sen —> Nobel Prize
+    - Indian economist and philosopher who since 1972 has taught and worked in the U.K. and the U.S.
+    - Awarded Nobel Memorial Prize in Economic Sciences in 1998 for his work in welfare economics
+    - One of the strongest champions of rationalism, secularism and egalitarianism in India
+    - Condemned the ghettoization of Ambedkar as a Dalit leader
+- Reliance Industries (Ambani)
+- Aug 15, 1947: Independence from British rule
+- Nathuram Godse — assassinated Gandhi
+- Mohandas Gandhi (Oct 2, 1869 — Jan 30, 1948)
+    - 1929: led nationwide campaigns for easing poverty, expanding women’s rights, building religious and ethnic amity, ending untouchability, but above all for achieving Swaraj
+    - Employed nonviolent civil disobedience
+    - Village was building block of society
+    - Wrote Hind Swaraj (Self-Rule for India)
+        - If you remove poverty and illiteracy, you find the finest specimen in the village
+- 1991: “License Raj” was dismantled
+- India Facts
+    - Will surpass China in population by 2032
+    - Will have more English speakers than the U.S. by 2050
+    - Only 35M have formal enough jobs to pay taxes
+    - 1/3 of world’s chronically malnourished children
+    - 750M / 1.1B live in villages, of which only half have roads
+    - 1/2 of women cannot read or write
+    - Was able to embrace democracy before having a substantial middle class or high literacy rates
+        - Also lacked an industrial revolution
+    - Has a very fragmented political system (24 parties)
+    - “the economy grows at night, while the government is sleeping"
+        - Saying about Italy, can be applied to India
+    - Pakistan v. India Conflict: Himalayan state of Kashmir
+    - Republic Day Parade: Jan 26, 1930 — Gandhi and others unfurled flag
+- Jawaharlal Nehru (1st PM)
+    - 1947-1964
+    - Daughter is Indira Gandhi (unrelated to Mahatma)
+    - Father was president of Congress Party, founded in 1885
+    - Englishness affected laws he passed
+        - District collectors became India Administrative Service (IAS)
+        - Kept country together but via unsackable elite
+        - Socialist policies because of influence of Fabians
+        - Secularism and strong disdain for communism
+- Bhimrav Ambedkar
+    - Saw no contradiction between accepting modern science and technology and opposing imperial rule
+    - Clashed frequently with Gandhi
+    - Gave “Dalit” (numbering 200M) hope, saw caste as social evil
+    - 1st untouchable to be educated abroad (at Columbia University)
+    - Worked on the 1950 Constitution
+        - Set up equality under law and the right to vote for all, regardless of caste
+- Communalism: Allegiance to own ethnic group or caste rather than society
+- Magasthenes’ description of India no longer applies
+- “In India you not cast your vote, you vote your caste”
+    - Caste —> removed from rituals and economics, not politics
+- Bharatiya Junata Party: Hindu’s revivalist movement
+
+##1: Global and Medieval (Schizophrenic Economy)
+
+- Until late 1990s the most significant highway was the Grand Trunk Road, which went bisected India from North to South
+    - It was a single lane highway, avg speed of 30 mph
+- By 2006, the 3000 mile Golden Quadrilateral was completed
+    - Connected Delhi, Mumbai, Chennai, Kolkata
+- Modern and booming service sector in a sea of indifferent farm land
+- Jawaharial Nehru
+    - Forged consensus in which India would aim for complete economic self-sufficiency
+    - The State would lead the effort by building up heavy industry (steel plants and large dams)
+    - Nehru is now regarded as a “hopeless idealist"
+    - Advisors were brought in from MIT and Gosplan (Soviet Union) to help with state planning
+    - Two main goals:
+        - swaraj: self-rule (political)
+        - swadeshi: self-reliance (economic)
+    - This concept of a closed economy dominated by the state pleased Britain’s Labour party (the same responsible for nationalization of industry in Britain)
+    - These plans didn’t work — By late 20th century, China had 2x the standard of living of India, despite both being at the same welfare level at 1949 and including the fact that China spent the first 30 years enacting a rule of terror
+- Why did it fail?
+    - At independence, the country was very rural (agricultural) and impoverished
+        - 9/10 lived in villages
+        - 1951: Literacy rate for 320M was only 16%, Avg life expectancy was 32
+    - Needed land reform, not heavy industry via state
+    - Needed to be literate and access to anti-malaria medicine and antibiotics
+    - Instead, Nehru poured resources into forming universities in the cities for the urban middle class and building public hospitals
+    - First 5 Year Plan was in 1951
+        - Only 1/3 of budget was for agriculture when it made up so much of economy / life
+        - Disparity from elite’s utopian dreams and reality
+    - He did get rid of Zamindari system
+        - Large landholders, zamindars, collected taxes from peasants for the British
+    - Other reforms were stopped by the Congress Party elites, who were drawn from upper castes
+        - i.e. cooperatives similar to China’s were shutdown by local leaders
+        - Nehru became jealous of China’s ability to push through major reform without democratic hurdles
+    - Failure of overall model
+        - 1. 1967:
+            - Indira Gandhi was forced to devaluate the rupee by the U.S. and IMF
+            - Symbolic defeat for swadeshi
+            - She suspended democracy for 19 months amid protests over her failure to “remove poverty” (1975)
+            - “Ship-to-mouth” saying as result from massive U.S. aid
+        - 2. 1991:
+            - Foreign exchange reserves dropped to zero in aftermath of Gulf War
+            - Reliance on oil bankrupted India as prices skyrocketed after Iraq set Kuwaiti oil fields on fire as they retreated
+            - However, they were self-sufficient for food this time, following the “green reforms” of the 1970s and 1980s (results of rice and wheat research)
+            - Forced to move gold to LDN as collateral (symbolic irony)
+- Case Study of Alok (36 year old)
+    - Two Advantages:
+        - Speaks English (advantage of India > China)
+        - IIT: elite engineering schools (5)
+- Originally “export pessimism” — a consequence of Nehru’s swadeshi philosophy
+- By 2006, however, reserves were at $140B compared with $0 in 1991
+- Late 1990s:
+    - IT sector received international visibility because of the Y2K bug
+- Many young Indian’s made us of EMI (equal monthly installments)
+    - Because of lack of dependency of work
+    - Little sense of saving as many use as loans against big things they cannot afford
+- Nevertheless, New Delhi has refused FDI
+    - Consumption accounts for 2/3 of GDP
+    - Prevented Walmart from entering
+- India’s cell phone market
+    - In 2000, 3M users
+    - In 2005, 100M with 2.5M new users a month
+- Average annual incomes are still less than $1000
+- Mumbai
+    - Financial capital since Victorian era
+    - Oldest stock market in Asia
+- Manmohan Singh
+    - Sikh who was India’s finance minister in 1991
+    - PM in 2004: “The best cure for poverty is growth"
+- In Indira Gandhi’s decade, it would have taken 57 yrs for an Indian family to double its income. In Singh’s decade, it only takes 15.
+- Growth is still capital-intensive, not labor-intensive like China's
+- First 40 years of independence, the problems were a shortage of food and foreign exchange.
+    - Solved first through the green revolution
+    - Solved second through higher export earnings and plenty of foreign exchange
+- Current problem: Lack of jobs for ordinary people
+    - Need employment for semiskilled on mass scale like China
+    - India’s love affair with the village makes this difficult
+- Rajasthan (Devdoongri)
+    - State in India’s northwest that borders Pakistan and the state of Gujarat
+    - Covered by desert, latest by land area
+    - Capital is Jaipur
+    - 54M people, depend on unpredictable annual monsoon to feed their crops
+    - Aruna Roy, one of India’s most admired and social activists
+        - Dharan: sit down protest
+        - Mazdoor Kisan Shakti Sangathan (MKSS: Organization for the Empowerment of Workers and Peasants)
+        - Agitates to secure basic rights of ordinary villages from an often impervious bureaucracy
+    - Villagers
+        - Peasants with average landholding being half an acre
+        - As generations grow, the land is subdivided
+        - Must eventually migrate to cities and voluntarily sell their land
+        - By 2001, more than 1/3 of rural household’s depended on nonland income for livelihoods
+    - East India Company: British outfit that used its royal charter to colonize India in the 18th century
+- Economy
+    - Less than 10% of labor force is employed in the formal/organized economy (470M workers)
+        - Only 35M Indians pay any kind of income tax (formally employed)
+        - Of those 35M, only 21M are direct employees of the gov
+        - Of the 14M, only 1M actually work in IT
+        - Private workers 9x more productive as unorganized workers
+- Jamshedpur
+    - In the eastern state of Jharkhand
+    - Sir Jamshed Tata set up Tata Group, India’s largest private company
+    - Adding ji to a name as an honorific suffix is given as a mark of respect
+    - Tata Group transformed from labor-intensive low-cost steel company to capital-intensive world-beating automobile steel company
+    - Nehru’s model drove the first version
+        - Strict labour laws made it almost impossible to fire an employee
+        - Industrial licensing system made it hard to import or change model
+    - Laws (made even stricter by Indira Gandhi) remain
+        - Reluctant to hire large numbers of people for fear of being stuck with boom-era payrolls
+        - Prefer to outsource to small, unaudited outfits in “unorganized sector"
+- Because of Nehru’s university system, 3rd best scientific and technical capacity
+- India’s export garments aren’t made in large labor-intensive warehouses as in china with millions of workers; they are made in small units which employ tens of thousands.
+    - Big financial and regulatory incentives for remaining small
+- Pharmaceutical and biotechnology sector draws strength from IITs
+    - In Pune (Poona), the Serum Institute supplies almost half of the UN’s vaccinations
+    - Indian drug companies have more applications for patents pending with the US FDA than do drug companies in any other country
+- Trend of moving toward higher-skilled production in order to get an advantage
+    - Higher pay and productivity in India than China
+    - Use of information technology and engineering skills
+- India’s rate of urbanization has actually slowed over the same period its economic growth has risen
+- Uttar Pradesh: India’s most populous state with 170M people, crammed densely into the plains around the Ganges, India’s holiest river
+    - MTNL: Mahanagar Telephone Nigam Limited — main urban state-owned telecom company
+
+##2: The Burra Sahibs (The Long Tentacles of India’s State)
+
+- Characteristics of all forms of government
+    - Lack of use of new technology (computes, vacuum cleaners)
+    - Projects not difficult if complacent with corruption and indifferent about final outcome
+- Chief minister, like a prime minister of a province
+    - More powerful than that of a governor in the U.S.
+- Since it is difficult to sack a civil servant, politicians usually transfer the official
+- Equation for corruption in India
+    - M + D = C, where M is monopoly, D is discretion and C is corruption
+    - pavangal — “a highly moral person of good intentions” but also “naïve” and “gullible"
+    - buddhi — “cunning” and implies “the power of discrimination that distinguishes adults from children"
+- States began forming from at least the 6th century BC, when Buddha was emerging in north India as the great philosophical skeptic of early history
+- Arthashastra, or the science of wealth, was written between 300 and 200 BC for the Mauryan Dynasty
+    - A manual of governance that scholars consider the equal in sophistication and subtlety of Machiavelli’s The Prince
+    - Most acclaimed scion, the Buddhist emperor Ashoka, is seen as perhaps India’s greatest ruler
+        - Historian’s estimate that Ashoka’s capital had a population at last as large as that of imperial Rome
+    - Introduces idea of mandala, kingdom views its diplomatic interests through ever-widening circles, always allying itself with the next circle but to unit against the circle in between —> “the enemy of my enemy is my friend"
+    - Recommends tax rules (should resemble a bee’s extraction of honey from a flower)
+    - Recommends rules of order for the bureaucracy
+        - All departments should be headed by more than one person
+        - Officials should be transferred frequently
+        - No decision by any official without consultation of superiors
+- British rule marked the first time in India’s history that Indians were defined as equal in the eyes of the law
+    - British Zamindars were deliberately aloof from the masses but governed in their interests
+- Few IAS officers succeed in keeping hold of the idealism with which they started
+    - mofussil: small-town rural India
+    - The more local you get, the worse corruption seems to be and the more control civil servants have over people’s lives
+    - Reflected in voter turnout — ascending scale of participation the lower down you get
+    - panchayat: local council
+    - Because of the MKSS, New Delhi passed a right-to-information act to cover all of India in 2005
+- In the soviet union, “you pretend to work and we pretend to pay you"
+- In India, “you pretend to work and we will pay you handsomely"
+- Rajiv Gandhi, took over as PM for his mother after she was assassinated in 1984
+    - Biggest critic of corruption
+    - Estimated that 85% of all developmental spending was pocketed
+- Still able to void famine simply because India is a democracy
+    - At times of acute shortage, electoral pressure and the free media provided the state with an incentive to ensure well-targeted distribution of emergency relief
+- However, India has a poor track record for protecting the poor against other issues (illiteracy, tuberculosis, malnutrition)
+    - 1950 constitution: eliminate hunger and provide all with access to clean drinking water
+    - India spends less on primary health care as a % of GDP than does any other developing country
+    - 47% of India’s children under 5yo are “chronically malnourished” by UN standards
+    - Lack of food and spending limits are not the issues
+    - Problem: mentality of India’s civil servants and public’s inability to communicate its frustration with bureaucracy into genuine reform via the ballot box
+    - Slum of Sunder Nagri (“beautiful town”) in New Delhi
+    - All-India average varies between 25% and 50% of all food being stolen
+        - In northern state of Bihar, India’s second poorest with a population of 75M, more than 80% of food is stolen.
+    - 40% of those who possess BPL (below poverty line) cards are not actually poor
+    - Job in the government confers status, money, and opportunity
+    - To India’s poor the state is like an abusive father whom you can never abandon
+    - Captain Thomas Mun
+        - British district collector of Kolar, in southern state of Karnataka
+        - Rode on horseback for years, covering Indian countryside in search of the right places to sink wells
+        - Dasgupta used ISRO (Indian Space Research Organization) to restore wells
+    - In the name of the poor, the poor are derived of water
+        - Only rich can afford pumps to use free electricity
+        - Have lowered the water table from 40ft to 600ft
+    - ISRO and India’s Election Commission are groups that are free from corruption for different reasons
+        - Reporting directly to PM and not being able to transfer civil servants
+    - Uttar Pradesh, India’s most populous state
+        - Worst highways in India, although there is 1 person to every 1.25 miles of road
+    - Most of India’s annual budget is spent on interest payments to service its debt, on salaries and pensions for employees, or on the military
+        - Thus, it has a combined deficit of 10% of GDP
+        - Must borrow heavily, so continual capital shortage
+        - Cost of borrowing increases, which lowers overall investment in the Indian economy
+    - Snooker was invented in the Oozy Club in Coonoor, small town in Nilgiris (Blue Mountains)
+- Judicial system
+    - Many appointments are vacant, some parts up to 25% of positions
+    - Lobbying, or “maska”, is often to blame for slowing the collegium down in appointing judges
+    - It’s becoming more difficult to attract quality lawyers from the private sector because they make so much more -- a judge doesn’t make much from pension
+    - It’s also more difficult to remove a judge from the Supreme Court
+        - You need 2/3 majority.. same as to make an amendment to the constitution
+    - The judicial system is overrun by lawsuits; in 2006 there were 27M
+        - Trials often deteriorate with witnesses dying off or forgetting crucial details, which lead to a low conviction rate
+        - Over $75B (10% of the GDP) is tied in legal disputes
+        - Civil suits clog up the system the most (1/5)
+    - Two innovations
+        - Civil mediators to take on civil suits that don’t need the same attention as criminal cases
+        - Petitions from any member of the public to hear cases of public interest, there are called public interest litigations (PIL)
+    - Issue of encounter specialists in the police force
+    - Crime
+        - Terrorism sponsored by the Inter-services Intelligence Agency — Pakistan’s intelligence organization
+        - Dawood Ibrahim
+            - Leader of indian organized crime syndicate D-Company founded in Mumbai
+        - Chhota Rajan
+            - Boss of major crime syndicate based in India, former key aide and lieutenant of Dawood
+        - Case study of Arun Gawli
+            - Strongman rose to power in the 80s and 90s when textile mills were slowing down
+            - They were brought in to break up strikes and bring replacement workers
+
+##3: Battle of the Righteous (The Rise of India’s Lower Caste)
+
+- dharma: duty or religion
+- Dharma of castes (the 4 Varnas)
+    - (1) Brahmin (priest): control over all spiritual and religious aspects
+        - “Sacred power” of word — only caste allowed to read and write
+    - (2) Kshatriya (warrior): command the military and rule the secular world
+        - “Whoever rules is a Kshatriya"
+        - If a new dynasty emerged from the wrong caste, the Brahmin priests would invent the necessary Kshatriya family tree
+    - (3) Vaishya (merchant): take care of the material needs of society
+        - Look after the principal currency of ancient India, which was cattle
+        - Gradually evolved into the holy animal
+    - (4) Sudra (farmers, servants, foot soldiers): keep distance from other castes
+        - Not permitted to hear the recitation of the sacred Vedic texts
+    - (5) Untouchables: perform tasks that no other human would consider
+        - Not technically within ranking, no caste name
+        - No other caste should have contact with them
+        - Forbidden to eat food prepared by an untouchable
+        - removing waste / make leather from carcass of a cow, sweep streets
+        - Chamars (traditional leather workers), Valmikis (scavenger caste)
+- Each Varna has hundreds of jatis, or subcastes
+- Ancient laws of Manu — “It is better to do one’s own duty badly than another man’s well"
+- Gradual spread of Islam after the 8th and 9th centuries AD inspired a wave of anti-caste movements within Hinduism during India’s medieval period
+- Case study of Aurangabad
+    - In arid corner of Maharashtra, ruled by princely state of Hyderabad
+    - The center of the Mahar community, populated by an untouchable caste many of whose members converted to Buddhism in 1956 by Bhimrao Ambedkar
+    - Ambedkar, who established a college here, was also a Mahar
+    - Duties of a Mahar: be porters, messengers, watchmen and guides for their social betters
+    - Never permitted to enter temples or draw water from the same well
+    - Ambedkar and Gandhi agitated for Dalits to be given access
+    - Ellora Caves — Hindu and Buddhist temple art
+    - Ambedkar resigned partly in protest at the delay in signing the Hindu Civil Code
+    - Brahmins plundered origins of Buddhism — feared that Buddha’s egalitarian message would undermine their stranglehold on society
+- V.S. Naipaul: India has become a land of a million mutinies
+- Hyderabad, in southern state of Andhra Pradesh
+- Case study of Patna
+    - Capital of Bihar in India’s north (third largest state)
+    - Very different from Hyderabad (no internet, not one functioning traffic light)
+    - Lalu Prasad Yadav, India’s most celebrated and witty lower-caste leader
+    - MY — Muslim-Yadav, an alliance between the state’s muslims and Yadavs
+        - Yadavs are the traditional cowherd caste of north India (Sudra)
+    - Kidnappings increase during elections
+    - Bihar has virtually no industry, income from grants from New Delhi or remittances from villagers who go to Delhi, Mumbai or Punjab
+    - Most rural state, 90% live in villages, lowest life expectancy
+- Almost 100 of India’s 545 members of parliament have “criminal backgrounds"
+    - Bihar and Uttar Pradesh account for the largest share
+- Half of India’s population is lower caste, 85% are hindu
+- Parties
+    - Congress Party: stresses a secular and inclusive Indian nationalism and a centrist view of the economy
+    - Bharatiya Janata Party (BJP; India People’s Party): appeal to every voter except for Muslims and Christians; Hindu nationalist party
+    - Bahujan Samaj Party (BSP; Majority of the People): give Dalits self-respect and to create more government jobs for them; most disciplined vote bank
+- Process of “Sanskritization"
+    - Trend in which lower orders are now copying the culture of the upper orders by following the same gods, attending the same temples, and celebrating the same festivals
+- Opposite for politics
+    - Affirmative action program is largest in the world
+    - Half of all government jobs reserved for the underdog (3 types)
+    - Any reduction to the public sector would shrink patronage
+- The ministry of railways oversees a workforce of almost 1.5M people, second only to China’s PLA as the largest employer in the world
+- Behenji Mayawati (honored sister)
+    - Chief minister of Uttar Pradesh 3 times
+    - When she first took power in 1996, she was the first woman and untouchable to take charge of the state
+    - Ordered 1400 transfers of IAS officers within the first year
+    - Bodhgaya temple
+- Samajwadi Party
+    - Democratic socialist party
+- Sir Edwin Lutyens is the British architect who is know to be instrumental in designing and building New Delhi (Lutyens’ Delhi)
+- North has the deepest caste divisions; Even in January 2006, 74% of Indians disapprove of intercaste marriages
+- Tamil Nadu
+    - Capital is Chennai (formerly known as Madras)
+    - Lies in the southernmost part of the Indian Peninsula
+    - Second largest state economy in India in 2012
+    - Suffers fewer caste divisions —>
+        - Only 30% of resources are illegally diverted versus up to 70% in the north
+        - It is the most urbanized state with over 50% living in cities
+        - 90% of population is literate
+    - Reason is partly due to it being one of the first regions directly ruled by the British, so earlier quotas and equality were instilled
+    - Veerappan was the most celebrated criminal (often thought of as Robin Hood-like)
+- Jean Drèze — a development economist who has been influential in Indian economic policymaking; a naturalized Indian of Belgian origin
+    - National Rural Employment Guarantee Act (NREGA)
+
+##4: Imaginary Horse (The Continuing Threat of Hindu Nationalism)
+
+- Nagpur
+    - Second capital and third most populous city of Maharashtra
+    - Headquarters for the Hindu nationalist organization RSS
+        - Rashtriya Swayamsevak Sangh
+            - Organization of National Volunteers
+            - BJP is one of its offspring
+            - Founded in 1926 by KB Hedgewar, first leader. 3 out of 4 successors were scientists
+                - M.S. Golwalkar, most influential Hindu nationalist was a zoologist
+                - K.S. Sudarshan was an engineer
+            - Members had a more scientific background in comparison with the lawyers and journalists who made up the Congress Party
+            - Still exclusively Brahmin in formative years
+            - Reject the “social contract” in western nations in favor of facism
+            - Principle unit is shakha
+                - Group of individuals who gather to perform exercises and recite nationalist stories
+                - Almost 1M men gather daily for such meetings
+                - Similar to semi militarized cells of Mussolini’s facist regime and Hitler’s Youth
+            - Golwalkar’s “We or Our Nationhood Defined” and “Bunch of Thoughts"
+                - Wanted to promote masculine Hinduism to be able to prevail against Islam and the West
+            - Christophe Jaffrelot, a French political scientist specializing in South Asia, particularly India and Pakistan
+                - Views that Hindu nationalists “emulate then stigmatize"
+            - Nathuran Godese, assassin of Gandhi, was from an RSS family
+            - Gandhi was at odds with conservatives because he did not oppose other religions / races
+                - “Hindu is by nature a coward whereas the Muslim is a bully"
+            - Vande Mataram is the Hindu nationalist anthem
+            - Swadeshi is a strong component
+    - Offshoot is VHP and BLP
+        - VHP is the Vishva Hindu Parishad, “World Council of Hinduism"
+        - Bajrang Dal is the youth wing, more militant (15 - 30 year olds)
+- Christianity since first century A.D., started in conversion in Kerala
+- Islam since eighth or ninth century A.D., started in southern ports with Arab traders
+- Nationalist movement
+    - Believes that India is moving back to its natural mental state: diversity, complexity and demassification
+    - Claims that civilization was born in India at least 10,000 years ago and that Hindustan is a microcosm of the universe
+    - Indus Valley was one of the first civilizations between 3100 and 1700 BC
+        - Most advanced sanitation and drainage systems
+        - Uniform culture across dozens of cities across different centuries
+        - Obsessive town planners
+        - Buried their dead
+        - Unfamiliar with the horse
+    - Try to push that India was the cradle of civilization predating Greeks, Chinese, etc
+        - Lack support of any accredited scholars
+        - Boycotted Ramila Thapa, a distinguished Indian historian
+            - She was critical of what she calls a “communal interpretation” of Indian history
+            - Objected to BJP’s changing of school textbooks for social sciences and history in 2002
+            - Textbooks tried to show that Hindu is Indian and Indian is Hindu
+- Vedas: religious incantations composed between 1500 and 1000 BC
+- India retains 2 competing ideas
+    - 1, the Congress Party’s view of plural, secular and composite India
+    - 2, the Hindu Nationalist’s exclusive Hindu definition
+- 1990s Congress Party began to lose power
+    - 1947-1989: 6 PMs, 1989-2001: 7 PMs
+- Ahmedabad, capital of Gujarat
+- lathi: long bamboo stick used by police
+- 3 major riots (1984, 1992, 2002)
+    - 1984 anti-Sikh riots
+    - 1992
+        - 3,000 people killed after Mosque demolished in Ayodhya (Babari Masjid)
+        - Campaign spearheaded by LK Advani
+        - BJP went from 2 to 84 seats within 2 years after campaign
+    - 2002
+        - Occurred in state of Gujarat
+        - Feb 27- the date of the Godhra burning - was also the date of the notorious fire in the German Reichstag in 1933 that gave Hitler the opportunity to seize power
+        - After burning of 84 Hindu passengers in town of Godhra, Modi declared Feb 28 a day of mourning
+        - Modi: “Every action has an equal and opposite reaction"
+        - Two features: premeditation and role of police
+        - Nationalists wanted to stress that “let Muslims understand that their real safety lies in the goodwill of the majority"
+        - Muslims deserted by police, justice system, and state’s welfare officers
+- Cow protection
+    - Adopted in the late 19th century in the north where largely Muslims resided
+    - Done to bring castes together against Muslims
+    - 5 Products: milk, ghee, butter, urine, dung for fuel
+    - In 2002, 5 Dalits were lynched for allegedly killing a cow for its carcass
+        - This is why BJP will never get majority — because of caste divisions
+- Swami Vivekananda
+    - Indian philosopher and social reformer
+    - Credited with raising interfaith awareness, bringing Hinduism to the status of a major world religion during the 19th century
+- Ramayana epic
+- Congress loss dominance of Gujarati politics after upper caste backlash due to government quotas for the lower caste
+- Indian government has two axises: Mandal (lower caste politics) and Mandar (nationalists)
+- Kashmir
+    - Jammu, largely Hindu
+    - Valley of Kashmir, largely Muslim
+    - Ladakh, largely Buddhist
+- BJP tries to posture itself as “The Party with a Difference"
+- Gujarat now has one of the highest standards of living, most globalized
+- Sankaracharya of Canchi “Hindu Pope"
+- Divali, the festival of lights — most holy day in annual Hindu calendar
+- Sri Sri Ravi Shankar
+    - Hindu evangelist, referred to as “Sri Sri” or Guruji
+    - Spiritual leader and founder of “Art of Living Foundation"
+    - Close attachment to RSS
+
+##5: Long Live the Sycophants (The Congress Party’s Continuing Love Affair with the Nehru-Gandhi Dynasty)
+
+- Sonia Gandhi, married Rajiv Gandhi, the son of Indira and the grandson of Jawaharlal Nehru
+    - She was from Italy and studied at Cambridge
+    - Tried to dissuade Rajiv from going into politics
+    - He was inducted into the cabinet after his mother was assassinated
+    - Seven years later, he was assassinated by a Tamil nationalist suicide bomber
+    - President of Indian National Congress party since 1998
+    - Appointed Manmohan Singh as prime minister in her stead in 2004
+        - The first Sikh in office, first PM since Nehru to be re-elected after completing a full five-year term
+        - PM from 2004 to 2014
+- Party’s sole remaining organizing principle is the Nehru-Gandhi Dynasty
+- Nehru family
+    - Home in the city of Allahabad similar to those of British countryside
+        - Architecture of Anand Bhavan (House of Joy), the larger family building, is Islamicate
+        - Became informal meeting place for Congress Party leaders
+    - Motilal Nehru, Jawaharlal’s father, made a fortune as a barrister
+        - Expelled from his caste for refusing ceremony of purification on his return from England
+    - Nehru’s letters to Indira on historical instruction were collated into Glimpses of World History
+    - Indira was supposed to be a constitutional monarch, but she wanted to be absolute
+        - Described father as a “saint who strayed into politics"
+        - After she shut down democracy for 19 months in June 1975, her son Sanjay began to emerge as more ruthless operator
+            - He oversaw the mass clearance of slums in New Delhi
+            - Devised unpleasant population scheme in which hundreds of thousands of men were sterilized
+            - Many were relieved when he killed himself in a plane accident
+        - Assassination in response to her ordering the Indian army to storm the Golden Temple in the town of Amritsar, which was under control of separatist Sikh militants
+    - Rahul, Sonia’s son, who, like his father, was also educated at Cambridge, is emerging as the next heir to the dynasty
+    - Nehru’s three clear stamps on India
+        - Democracy — alive and well, despite Indira
+            - Believed India should have a Westminster-style parliamentary system in which every adult would have the vote
+        - Secularism — intact but not at its height
+        - Socialism — dead
+        - (a fourth, foreign policy nonalignment during cold war — no longer relevant)
+- Party
+    - Democracy
+        - Factional character had consequences for the way democracy evolved in country
+        - Independence began with only one national party, which claimed to represent all
+        - In practice, overwhelmingly dominated by rural and urban elite
+        - “The hand of Congress is always with the poor” — often times untrue
+        - Voting share is between 25 and 29% outside of a national crisis
+    - Secularism
+        - Party began with everything from Marxist to Hindu nationalist
+        - Indian state happily promotes all religions, rather than disdaining all equally (as in France / Turkey)
+        - Nehru permitted all religions to retain its own civil laws (marriages, divorces, births, etc)
+        - Adoption of separate legal codes put strict limits on liberalism in India
+        - Unfortunately characterized by “naivety and cynicism"
+    - Socialism
+        - Indian-style socialism, in which the supposedly altruistic workings of an elite bureaucracy act as a substitute for social reform on the ground, lives on in habitual tendencies of the party
+        - Some reasons for why India still operates in its traditional form are to be found in the habits and character of the Congress Party
+            - Nehru’s state’s inefficiencies contributed a great deal
+            - Indira’s policies led the country to the precipice of bankruptcy
+            - Indira nationalized banking and insurance sectors; handed control to an unreformed civil service
+                - Farmers turn to usurious private moneylenders instead because of wait time, lack of collateral, and bribe costs
+                - On some estimates, reform of financial sector could add 2 percentage points a year
+            - With the exception to the right-to-information law, India’s bureaucracy still works the same after Singh
+            - REGA distinguishes India’s approach from China’s, which is to create jobs indirectly by stimulating high (public and private) investment
+                - India’s law gives 100 days of manual labor in the countryside to whoever wants it
+                - However, it doesn’t upgrade skills of people or invest in genuine rural infrastructures
+                - One Indian commentator suggested the law be renamed the Corruption Guarantee Act
+            - Made no attempt to improve performance of state-owned companies
+    - In Pratap Bhanu Mehta’s The Burden of Democracy, he claims that in a traditional society like India’s, the ties between master and servant apply in all contexts
+    - Congress Party is very flexible compared to BJP
+        - More difficult to marshal party workers behind a clearly defined cause
+        - Gives party room to experiment with different strategies
+        - Example of impressive local leader is Sheila Dikshit
+            - Chief minister of New Delhi, with a population of 15M & the wealthiest part of India
+            - Widow — Husband, an IAS officer, died young
+            - Part of a dynasty, which is a common trend in the Congress Party
+                - Offspring often inherit constituency
+                - Only two positions not tainted by nepotism are the governor of the central bank and the army chief of staff
+            - Phenomenal work on New Delhi’s metro system
+            - Successfully cleaned up New Delhi’s choking air quality
+        - Example of traditional local leader can be found in Mumbai
+    - Bangalore is the capital of Karnataka
+    - Google’s India headquarters is in Hyderabad
+    - Naxalites
+        - Local group of Maoist insurgents who control large tracts of Andhra Pradesh
+        - Named after the town of Naxalbari in the state of West Bengal, where they first launched their Maoist insurgency in 1960s
+        - Nearly assassinated Naidu, targeted and killed several candidates in Naidu’s party (Telugu Desam Party) in 2004 campaign
+        - Now known as the Communist Party of India (Maoist-Leninst)
+    - Andhra Pradesh Reorganization Act, 2014
+        - Act of Indian Parliament proclaiming bifurcation of the Andhra Pradesh state into two states, Telangana and Andhra Pradesh
+        - Day of new states was 2 June 2014
+        - Hyderabad will remain as common capital for no more than 10 years
+        - A new capital for Andhra Pradesh would be declared in 45 days (likely to be Vijayawada)
+        - Telangana used to be a state in India before it was dissolved as part of the linguistic reorganization of the states. The Telugu speaking part of the Hyderabad state was merged with Andhra State to form Andhra Pradesh
+
+##6: Many Crescents (South Asia’s Divided Muslims)
+
+- fatwa: ruling on a point of Islamic law
+- Deoband, the center of Islamic orthodoxy in south Asia
+    - Founded in the aftermath of the failed Sepoy Mutiny against the British by rebel Indian regiments in 1857
+        - Known in India as the First War of Independence
+        - Killed many colonial women and children
+        - British burned villages and hung hundreds in retaliation
+        - Crushing finale to era of Islamic dynasties in India
+    - Dar-ul-Uloom, the House of Knowledge, large Islamic school
+        - Combination of classical islamic and gothic architecture
+        - 3000 studnets
+    - The Taliban belong to the Deoband school of Islam
+    - Many senior Taliban view Deoband as their spiritual headquarters
+- Angrenzi: English, but simply means “foreign” or “Western"
+- Jama Masjid, the largest mosque in India
+- Two reactions
+    - (1) Saw reconciliation as the only practical option
+        - Led by Sir Sayyid Ahmad Khan
+        - Motivated by fear of what would happen to Muslims with a majority Hindu population
+        - Founded the Aligarh Muslim University, which chose English as medium of instruction
+        - Many would lead the movement to establish Pakistan
+    - (2) Saw failure and aftermath as signs that Muslims should return to first principles
+        - Led by two Islamic scholars
+            - Hazrat Nanautavi
+                - Viewed downfall had been brought by sybaritic habits of courtly life under the Mughals
+                - Had weakened by adopting too many customs of the Hindu idol-worshiping majority
+                - Established the Dar-ul-Uloom school in 1866
+            - Rashid Ahwad Gangoli
+- Pakistan
+    - Seen as a divisive prospect since it would artificially split the Ummah, or community of believers
+    - Gandhi endorsed Indian Khilafat movement to restore the Muslim caliphate
+        - Mohammed Ali Jinnah, leader of the Muslim League, resigned from the Congress Party because he believed it was wrong to mix religious faith with politics
+    - Origins
+        - Originally, very few Deobandis approved of the idea, first raised in the 1930s
+        - Creation traced back as far as 1909 when Lord Minto, the viceroy, established “communal electorates"
+            - Helped to embed minority politics in Indian democracy
+            - Clear that Britain was motivated to prolong its rule by exacerbating political divisions
+        - Some historians trace creation back to aftermath of elections in 1937 when Congress Party refused to enter into coalition with the Muslim League in the United Provinces (Uttar Pradesh)
+    - In March 1940, Jinnah proclaimed the “Pakistan Resolution” in Lahore
+    - “Doctrine of Necessity” cited by Pakistan’s Supreme Court
+        - “That which otherwise is not lawful, necessity makes lawful"
+- India had been wrecked by violence
+    - Partition, in which between 500,000 and 1,000,000 people were killed
+    - “Great Killings” of Calcutta
+        - August 1946, Jinnah declared a Direct Action Day, which left the streets running with blood
+- Indian National Army (INA)
+    - A group of Indian soldiers who had defected to the Japanese under leadership of Subhash Chandra Bose, a former Congress Party leader
+    - INA got bogged down with Japanese in jungles of Burma
+    - Nehru made sure anyone associated with INA was not reinstated
+- Loyalties of Indian muslims constantly called into question by Hindu communalists
+- Loyalties of Indian muslims who migrated to Pakistan called into question as they are called mohajirs, or immigrants
+- Aspects of Partition
+    - British apologists state that India was already deeply divided and the religious divide was not a British invention
+    - Lord Mountbatten, last viceroy, persuaded Nehru that the colony’s several hundred princely states should decide one by one which country to join
+    - Three cases (Junagadh, Hyderabad, Kashmir), the ruler’s loyalties were contradicted by the religion of the majority of his population
+    - Hyderabd was completely impractical
+        - Nowhere near East Pakistan (which had been East Bengal, and which in 1971 became Bangladesh) or West Pakistan (Sindh, the North-West Frontier Province, Baluchistan, and about half of Punjab)
+    - Junagadh and Hyderabad were absorbed into India by force
+    - Kashmir
+        - Muslim-majority province that was ruled by a Hindu prince, Maharajah Hari Singh
+        - Bordered Pakistani province of Punjab
+        - Indians claim state straddles a vital Himalayan high ground
+        - Nehru had originally come from Kashmir
+        - In October 1947, the maharajah signed accession to India, as 1000s of Pakistani guerrilla fighters were streaming into the state
+        - Nehru airlifted Indian troops to Strinagar, where they defended the city
+        - U.N. brokered a cease-fire
+            - The Line of Control (LOC) is the cease-fire line which divided the state of Kashmir into two
+            - It remains the dividing line
+            - Often referred to as the most dangerous nuclear flashpoint in the world
+        - Infiltration of Pakistan-backed militants across LOC occurs at night covered by Pakistan army fire
+        - Approx 450,000 Indian soldiers and paramilitaries
+        - fidayeen: trained suicide bombers
+        - Kashmiri style of Islam draws on rich strands of Sufi mysticism, which bears little resemblance to orthodox Deobandi Islam
+            - Many women have been disfigured with acid
+        - Political History
+            - 1948-1989: mostly quiescent
+            - 1987: New Delhi blatantly rigged state assembly election
+            - 1987-early 1990s: Indigenous Jammu and Kasmir Liberation Front grew popular in campaign for independent Kashmir
+            - early 1990s - late 1990s: Independence groups supplanted by radical Islamic groups pushing for Kashmir to join Pakistan
+                - ISI recycled many Afghan jihadists to Kashmir
+        - December 13, 2001
+            - Fedayeen attack on India’s parliament in New Delhi killed 14 people
+            - Indians traced attack to a Kashmiri militant group based in Pakistan called the Lashkar-e-Toiba, the Army of Pure
+            - Atal Behari Vejpayee, India’s 11th PM (1998-2004), ordered relocation of most of 1.2M strong army to border
+        - Recent trend toward joining India
+            - Fatigued by ordeal, better economic situation in India, hatred of militants
+        - Umar Farooq
+            - known as the Mirwaiz, the hereditary title of a widely revered Sufi position in Srinagar
+            - His father was assassinated in 1990 by militants
+- General Musharaff
+    - Post-9/11 U.S. relations
+        - Decided to work with the US in war on terrorism
+        - 3 grounds
+            - Protect nuclear assets
+            - Turn ailing economy around
+            - Assist long-running claim to sovereignty over all of Kashmir
+    - Slogan: “Pakistan First” (Nationalism > Religion)
+- India-Pakistan Relations
+    - Four conflicts (1947, 1965, 1971, 1999) with total casualties amounting to fewer than 50,000 killed
+    - Pakistan is perceived as a threat
+        - 1, Pakistan claims Kashmir
+        - 2, Pakistan seen as amputation of India’s natural geographical and cultural boundaries
+        - 3, Pakistan seen as posing existential threat to India’s secular identity
+    - India’s Muslim minority accounts for 14% of population, or 150M
+- MAFA: mistaking articulation for accomplishment
+- Large proportions of Muslims live in poorer states, thus their average growth rate was higher. Why?
+    - Exodus in 1947 of most of India’s Muslim intelligentsia to Pakistan
+    - Most poor remaining Muslims were involved in traditional artisan occupations which have suffered economic decline since 1950s
+- Being Muslim is just one attribute in the complex menu of identities
+    - Uttar Pradesh, where Muslims are still prone to caste classification, is home to 30M muslims
+    - Ashraf
+        - Upper caste, noble-sounding names such as Sayyid
+        - Claim descent from foreign aristocracy, whether Persian, Arabian, Turkish, or Afghan
+        - Moving to cities and “Westernizing” and abandoning purdah
+    - non-Ashraf
+        - Lower-caste
+        - Descendants of lower-caste Hindus who converted to Islam
+    - Rub shoulders equally in mosque
+    - Division between India’s Sunni and Shia Muslim communities
+        - In cities like Lucknow, capital of Uttar Pradesh, principal communal conflicts revolve around this division
+        - Shia community attacked during Moharram festival
+        - Sunni community prefers to educate their children in backward madrasas rather than to give them a modern education
+    - Hyderabad, known as Char Minar, after four minarets that dominate skyline of once-Persianized princely capital
+        - Many Muslim parents have set up a flourishing network of private schools, which teach in English rather than Telugu or Urdu
+        - 2/3 of children attend these private schools
+    - Main issues are Hindu communalism and Muslim mullahs
+    - Asma Jehangir, Pakistan’s most courageous and well-known human rights lawyer
+        - Organized marathon run to highlight restrictions on woman’s face in Pakistan
+    - Muslims possess a clear right to freedom of speech, expression, worship and movement
+    - Concern over Muslims in Kerala, where millions of Keralite Muslims have worked and continue to work in the Gulf states
+        - More strict rules for women
+        - Financially independent and educated
+        - Practice of dowry is spreading across India
+- According to India’s government, on any given day 1/3 of teachers are absent from government schools
+
+##7: A Triangular Dance (Why India’s Relations with the U.S. and China Will Shape the World in the 21st Century)
+
+- May 1998: New Delhi ordered underground testing of five nuclear weapons
+    - Two weeks later Pakistan tested six nuclear warheads
+- India’s success in software and “complex manufacturing” are pushing forward country as an economic power
+    - At current average growth rate, it will double its size of economy every 12 years
+    - India now “hyphenated” to China not Pakistan
+- India and China possess 3rd attribute lacking in Britain, a large population
+    - Must take environmental sustainability into account
+- Nehru’s foreign policy
+    - Condemnations of the nuclear arms race
+        - Biggest force behind the creation of the Non-Aligned Movement
+            - Launched in Bandung, Indonesia in 1955
+            - Included global statesmen such as Tito of Yugoslavia, Nasser of Egypt, King Sihanouk of Cambodia
+            - Announced that a large chunk of the developing world would be neutral in the cold war rivalry between U.S. and U.S.S.R.
+            - India moved increasingly closer to USSR (barter trade, armaments)
+    - Friendship with China
+        - Believed close relations b/t India and China would be the axis around which a postcolonial order would emerge
+        - India’s language was idealistic
+            - Hindi-Chini Bhai Bhai, Indians and chines are brothers!
+        - Two issues
+            - Chinese suppression of autonomy in Tibet
+                - In 1959, India gave Dalai Lama sanctuary, after he fled Tibet to escape suppression by PLA
+                - Now based in Himalayan town of Dharamsala
+            - Dispute over correct dividing line on 2,170-mile border between India and China
+                - Beijing started to publish maps that redrew many sections of the lengthy Himalayan border
+                    - Called “cartographic aggression"
+                - 1962, Chinese PLA flooded across the Himalayan border and drove back India’s ill-equipped military forces
+                - Chinese then declared a cease-fire along obscure contour that remains dividing line
+        - 1964, weeks after Nehru died China exploded the hydrogen bomb
+    - Third World solidarity
+        - Nehru viewed U.S. as neocolonial successor to Britain
+        - U.S. annoyed that a country that uses so much food aid tries to teach Washington how to run the country
+        - U.S. backed Pakistan in conflict over civil war in East Pakistan
+            - Moved USS Enterprise into Bay of Bengal
+            - Indira Gandhi intervened nonetheless
+            - U.S.’s Kissinger publicly said he would not come to India’s aid if China intervened (gave China green light)
+        - India (and thus Pakistan) refused to sign the Treaty on the Non-Proliferation of Nuclear Weapons
+            - 1968, pushed by five nuclear powers (U.S., Britain, France, USSR, China)
+            - Called it “nuclear apartheid"
+        - A.Q. Khan
+            - Father of Pakistan’s nuclear program
+            - Stole blueprints from his Dutch employer that detail process by which uranium is enriched into weapons-grade material
+            - Sold to any country prepared to pay (Libya, NK, probably Iran, possibly Saudi Arabia)
+- May 2002 was the most dangerous moment between India and Pakistan
+- China wants better relations with India
+    - First, India is much more hard-nosed neighbor
+        - May 1998 nuclear tests
+            - Before tests, India’s defense minister state that China was the biggest threat to India’s security
+        - Asked Beijing to declare weapons were “No First Use"
+        - In June 2001, one of first to endorse Bush administration’s plans of Theater Missile Defense, or “Star Wars II"
+    - Second, economic reasons
+        - China embarked on economic reform in 1978
+        - India embarked on economic reform in 1991
+        - China has roughly 2x India’s per capita income and 4x India’s level of exports
+        - 2000, trade b/t China and India was $2B
+        - 2006, trade b/t China and India was $20B
+        - India’s facility with English and IT is not matched by China
+        - Indian perceptions of China changed from being a commercial threat to a potential partner, after China joined the WTO in 2000
+- At global level, China, India, Brazil and South Africa lead the G20
+- In March 2005, the Bush administration said that the U.S. wanted “to help India become a major world power in the 21st century"
+    - This coincided with a CIA report that identified India as the key global “swing state” of the century
+    - The CIA also predicted that India would be the world’s fourth most powerful country by 2012
+    - 3 Reasons
+        - Largest democracy in the world
+        - Responsible stewardship of nuclear arsenal
+        - 2M U.S. citizens are of Indian origin (richest ethnic group in U.S.; highest number of foreign students in U.S.)
+    - Reality
+        - India is the only country that could counterbalance China’s rise
+    - Nuclear Deal
+        - Singh surprised by deal’s offers from U.S. (pleasantly)
+            - Accept India’s nuclear weapons status
+            - Reinstate the export of nuclear fuel for India’s civil nuclear program
+            - Lift all remaining restrictions on export of sensitive technologies to India
+        - In return
+            - India would tighten export controls to prevent sale of “dual-use” technology to other countries
+            - Accept international monitoring of civil nuclear plants
+            - Erect more credible walls b/t civilian and military sectors
+        - Manmohan received 19-gun salute and official state banquet at the White House
+    - Limitations
+        - India does not wish to play the role of strategic counterbalance to China; wants to remain equidistant from China and U.S. (or at least not admit openly)
+        - India’s relations with other countries, including those labeled as “rogue” by U.S.
+            - i.e. Iran
+        - Anemic growth in trade between two; More specifically the slow growth of U.S. exports to India
+            - “Sanctity of the contract” not completely understood by Indians as by Americans
+                - i.e. 2400-megawatt Dabhol power plant near Mumbai that was built in 1990s by Enron
+                - Maharashtra gov refused to buy electricity because it was “overpriced"
+            - Slow liberalization of India’s retail, insurance and banking sectors
+                - Nevertheless, 80% of India’s software earnings come from American customers
+- Indian foreign diplomacy is often centered around being treated with exceptional respect
+    - Appear to mind more about etiquette than substance
+    - “Whether a realist or an idealist, almost every member of the Indian strategic community thinks that India’s inherent greatness as a power is itself a valuable diplomatic asset. India’s ambassadors are expected to persuade foreign officials of the wisdom and moral correctness of the Indian position, say, by stating the Indian case, and supplementing political arguments with information about India’s great civilization, its cultural and economic accomplishments and its democratic orientation” — Stephen Cohen
+    - Very against third-party opinions or mediation
+    - In the last decade or two, India has become a more practical power
+- Energy security actually bigger problem than food security
+    - In the last 25 years, India has made significant progress in food supply difficulties and will likely become large exporter
+    - Currently imports 70% of oil needs, expected to rise to 90%
+    - Similar energy situation to China (large reserves of coal but insufficient supplies of oil)
+        - Both have built controversial dams
+        - Both have ambitions to expand civil nuclear capacity
+        - Both want to extract oil or gas directly rather than buy energy futures
+    - India has struck significant undersea gas fields in Bay of Bengal
+    - Issue with possible trade with Iran (enough gas and oil)
+        - U.S. Helms-Burton Act triggers sanctions on companies that trade with Iran and Libya
+- Now has aid programs in parts of Africa and Afghanistan
+    - Tool of foreign policy as much as an expression of humanitarian concern
+
+##8: New India, Old India (Many-Layered Character of Indian Modernity)
+- IT Sector
+    - Has created vast wealth for a select few (Infosys and Wipro)
+    - The sector is very meritocratic
+    - Change in values accompany increase in wealth
+    - Surprisingly “long-distance nationalism” is much more conservative than its parent; Indian software workers living in the U.S. are much less likely to marry outside of their caste than IT workers in India
+- Trends of women in workplace
+    - Want to educate children to the highest level
+    - Do not mind intrusive questions
+        - Nosiness is practically a virtue in India
+- Many are devoted to “Art of Living Foundation"
+    - Method of meditation and stress reduction, also spiritualism
+- Newer generation:
+    - Highly skilled, wealthy, cosmopolitan, and comfortable with people of all religious and caste backgrounds
+    - Need to protect Indian culture and religious heritage from less attractive aspects of global culture
+    - View India’s traditional moral values as better than those of the West
+- Religion
+    - Among many of the Christian and Muslim communities, the form of worship is more eclectic and unorthodox than among their coreligionists in most other parts of the world
+        - Positive: Tendency to accept that there are many paths to God derives from India’s long-running tradition of tolerance among religions
+        - Negative: Caste plays important role in dividing Christian and Muslim communities along lines of members’ birth
+    - In almost every denomination, the church hierarchy is still of upper-caste origin
+    - Karwa Chauth: wives fast for their husbands for one day a year to symbolize their devotion
+    - Rakhi: sister ties a thread on her brother’s wrist to convey her love
+    - Hinduism is becoming a much more standardized religion
+- India is still averaged to have the lowest average age of marriage in the world; almost all of this takes place in the village
+- Gujarat has terrible gender discrimination and infanticide because of a baby being female
+- Sociologist Dipankar Gupta’s Westoxification: tendency to adopt the brand labels and consumer habits of the West and believe this is what is to be modern
+- India expects Bollywood to be sexy and conservative
+    - Originally sold the dream of development and modernization and films were often set in rural India, depicting heroes battling against the evils of feudalism
+    - Nowadays caters to the taste of India’s new consuming classes
+    - Bachchan refers to it as escapist cinema
+- the Indian Wedding
+    - Smallest metropolitan middle-class weddings start at $20k
+    - Growing cost of weddings, the volume of people invited and number of  receptions, ceremonies, and related gatherings
+    - M.F. Husain and Satish Gujral
+- “The state has internalized the message of the Bhagavad Gita — only intentions matter and not consequences” - Pratap Bhanu Mehta
+- “Bridge schools”, which give former child workers a year of crash education before they are transferred to a mainstream school
+
+##Conclusion: Hers to Lose (India’s Huge Opportunities and Challenges in the Twenty-First Century)
+- “one percent society” - whichever economic or social indicator you chose is improving roughly at 1% a year
+    - poverty rate, literacy rate, life expectancy
+- India has given higher priority to stability than it has to efficiency
+- India has 18 official languages, several different scripts, and deep religious and caste divisions
+- To thrive, India’s businesses need good infrastructure, a literate and healthy workforce, a sustainable environment, and the promise of law and order
+- Four critical problems
+    - (1) Lifting 300M people out of absolute poverty and of providing the remainder with a more secure standard of living
+        - By 2050, India is projected to hit 1.6B; overtaking China by 2032
+        - The more rapidly India can overcome poverty, the more likely its population will stabilize near 1B than 2B
+        - Must raise its agricultural productivity
+            - Create market for voluntary land sales so average plot size becomes large enough for mechanization
+            - Allow farmers to sell to whom they choose
+            - Liberalize retail sector to bring in cold storage facilities and new agribusinesses
+            - Overhaul regressive system of food subsidies to the consumer, to encourage farmers to grow other crops
+        - Must fix dismal rural infrastructure
+            - Build more all-weather roads linking villages to towns
+            - Reform India’s primary and secondary education system to ensure that teachers turn up and do their jobs
+            - Reform village health centers
+            - Deliver reliable electricity and clean water to villages
+        - Create nonfarm employment
+            - Workforce is expanding by 10M people every year
+            - Only 5M new jobs are created every year
+            - Must give better education and more vocational training
+            - Must remove obstacles that inhibit investors
+            - Reform labor laws
+    - (2) Overcoming the dangers of rapid environmental degradation
+        - Accounts for only 4% of global carbon dioxide emissions but has almost 17% of world population
+        - The West, particularly U.S., should take a stronger lead in offering India and the rest of the developing world financial incentives to embark
+        - By 2030, India is projected to have 200M vehicles compared to 40M vehicles in 2006
+        - Possible solutions
+            - Overhaul Indian Railways
+            - Build metros in large cities
+            - Use leapfrog innovation strategy for planning cleaner and more efficient urban transport systems
+            - Charge for both water and air pollution
+            - Develop coherent energy strategy
+                - Current management is scattered across many different industries
+    - (3) Heading off the specter of an HIV-AIDS epidemic
+        - In 2005, less than 1% contracted HIV; this still makes India the second largest sufferer behind South Africa (5.3M)
+        - They’ve managed this problem; According to AVERT, in 2013 only 0.3% contracted HIV with a total of 2.1M people
+        - Cipla, based in Mumbai, has done more than any other company in the world to bring affordable AIDs treatments to millions of sub-Saharan Africans
+    - (4) Protecting and strengthening India’s system of liberal democracy, which is most precious asset India possesses
+        - Most coherent threat is Hindu nationalism
+            - The Sangh Parivar (Rss family of groups) controls India’s largest trade union, its largest student union, and the largest network of daily and weekly publications
+            - Basic aim is to downgrade the status of India’s religious minorities, through peaceful or violent means
+        - Strengthen system of parliamentary and local democracy
+            - Quality of debate and scrutiny in Lok Sabha (lower house) is remarkably poor
+            - In 1950s, India’s parliament met on average for b/t 120-138 days a year. Now the average is between 70-80 days a year.
+        - Improve relations with its immediate neighbors
+            - Most obvious external threat is from Pakistan
+            - Must improve relations with Bangladesh (c 1971)
+            - South Asian Association for Regional Cooperation
+                - India, Pakistan, Bangladesh, Nepal, Sri Lanka, the Maldives, and Bhutan
+                - Trade flows amount to be < 5% of total trade flow
+    - All relate to injecting a greater sense of urgency into the mind-sets of India’s political-bureaucratic elites
+
+##Vocab
+- ecumenical: nondenominational, universal
+- sclerotic: becoming rigid and unresponsive
+- forlorn: unlikely to succeed
+- proselytize: attempt to convert
+- pogrom: violent riot aimed at massacre or persecution of an ethnic or religious group
+- sycophant: a person who acts obsequiously toward someone important in order to gain advantage
+- obsequious: attentant to an excessive or servile degree
+- vituperation: bitter and abusive language
