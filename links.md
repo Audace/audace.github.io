@@ -2,7 +2,6 @@
 layout: page
 title: Links
 ---
-###Sites, projects, blogs and articles that I like
 - Where I get my news
   - [Twitter](http://twitter.com)
   - [Hacker News](https://news.ycombinator.com)
