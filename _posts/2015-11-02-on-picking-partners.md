@@ -10,10 +10,10 @@ Whether it's a side project, a homework set, or the start of a new venture, we a
 
 The following table highlights the high-level scenarios given the two key variables at play. Person A is the known, less competent player. Person B is the unknown or unkind, more competent player.
 
-|              | Lots of Time | Little Time |
-|--------------|:------------:|:-----------:|
-|*Very Complex*| Friend*      | Stranger    |
-|*Less Complex*| Friend       | Friend      |
+|                | Lots of Time | Little Time |
+|----------------|:------------:|:-----------:|
+|**Very Complex**| Friend*      | Stranger    |
+|**Less Complex**| Friend       | Friend      |
 
 \*Assumes baseline of competence mentioned below.
 
