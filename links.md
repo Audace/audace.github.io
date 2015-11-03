@@ -15,6 +15,7 @@ title: Links
   - [Sam Altman's Blog](http://blog.samaltman.com/)
   - [First Round Review](http://firstround.com/review/)
   - [AVC](http://avc.com/) - Fred Wilson's Blog
+  - [Wait But Why](http://waitbutwhy.com/)
 - I like these sites
   - [Product Hunt](www.producthunt.com)
   - [Github](https://github.com/)
