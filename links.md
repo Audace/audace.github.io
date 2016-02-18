@@ -2,7 +2,8 @@
 layout: page
 title: Links
 ---
-News
+News:
+
 - [Twitter](http://twitter.com)
 - [Hacker News](https://news.ycombinator.com)
 - [Reddit](http://reddit.com)
@@ -11,7 +12,7 @@ News
 - [Mattermark Daily](https://mattermark.com/category/mattermark-daily/) (newsletter)
 - [CrunchBaseDaily](http://static.crunchbase.com/daily/content_twitter.html) (newsletter)
 
-I read these blogs
+Blogs:
 
 - [Paul Graham's Essays](http://paulgraham.com/articles.html)
 - [Sam Altman's Blog](http://blog.samaltman.com/)
@@ -19,7 +20,7 @@ I read these blogs
 - [AVC](http://avc.com/) - Fred Wilson's Blog
 - [Wait But Why](http://waitbutwhy.com/)
 
-I like these sites
+Services:
 
 - [Product Hunt](www.producthunt.com)
 - [Github](https://github.com/)
