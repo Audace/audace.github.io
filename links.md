@@ -2,8 +2,7 @@
 layout: page
 title: Links
 ---
-Where I get my news
-
+News
 - [Twitter](http://twitter.com)
 - [Hacker News](https://news.ycombinator.com)
 - [Reddit](http://reddit.com)
