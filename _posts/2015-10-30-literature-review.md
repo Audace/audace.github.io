@@ -3,7 +3,7 @@ layout: post
 title: Literature Review of Social Choice Theory
 comments: true
 ---
-###I. An Overview
+### I. An Overview
 
 Social choice theory, as described by Wulf Gaertner, is an attempt to aggregate preferences of members of a society in order to produce a function that represents the society as a whole (2013). The function is referred to as a social welfare function. Social choice theory strives for answers to the question: how can a group of individuals arrive at a decision that best satisfies the individuals’ wishes? The attempt to create a social welfare function yielding such a decision began with important contributions in the 18th century, yet modern work on collective choice began first with Kenneth Arrow’s Social Choice and Individual Values, which set the foundation for debate since the 1950s. Arrow claimed that arriving at any form of social welfare function is actually impossible, given the diverse preferences of individuals (1951).
 
@@ -29,11 +29,11 @@ On the other hand, James Buchanan, a contemporary to Weldon, believes that Weldo
 
 Amartya Sen, a Nobel-Prize-winning economist and philosopher, is one of the leading present-day theorists in this area. Similar to Buchanan’s aim, Sen addresses methodological and informational foundations of social choice theory and Arrow’s theorem in his 1991 work. Here he argues for freedom-based approaches to be considered, given that pure utility-based functions do not take into the account the lack of choice. He disputes previously held notions that preference fulfillment can be identified with individual welfare as well as that it is disconnected from individual freedom. In his 1995 work, he focuses more on analysis of social choice theory in the light of previous research. He reviews previous propositions in order to address questions of rationality in social decisions, value formation, and Buchanan’s dispute of social preference. He concedes arguments to both Arrow and Buchanan in hope of furthering a better understanding and direction, as he suggests key areas to incorporate into social choice theory research in the future by drawing on his 1991 argument for freedom (Sen, 1995, p.18). 
 
-###IV. Looking Forward
+### IV. Looking Forward
 
 Arrow’s Impossibility Theorem incited a debate within the field of social choice that still goes on today. The question is no longer whether arriving at a social welfare function is possible. The question is what conditions, variables and parameters are required. Black’s single-peakedness was able to lay the question for how not if. Weldon applied Black’s work in showing a need for cardinal measures of utility, thus changing the conditions, and linking the many-alternative case to the two-alternative case. Buchanan found this unnecessary but did show that variables such as nonutility values are important. He thought that conditions of consistency should not limit decision-making processes. Sen found Buchanan to be correct on his argument for importance of decision-making processes, yet thought that even more variables and parameters should be included (value formation, interpersonal comparison, rationality of man) in the creation of social welfare functions. For every question answered, another is raised. The consensus of contemporary research is that Arrow fails to take a pragmatic and holistic view of social welfare.
 
-###Sources
+### Sources
 
 Arrow, Kenneth. (1951). *Social choice and individual values*. New York, NY: Wiley.
 
