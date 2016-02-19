@@ -84,7 +84,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Josh Kopelman](https://twitter.com/joshk): Founder of First Round Capital.
 - [Chris Gray](https://twitter.com/cgray91): Founder of Scholly.
 - [Yuval Yarden](https://twitter.com/yyarden03): Philly Startup Community Connector, PSL Program Director, Entrepreneurial Engagement for [@jll](https://twitter.com/jll), [@templeuniv](https://twitter.com/templeuniv) Grad! Tweet for [@startupleaders](https://twitter.com/startupleaders).
-- [John Gruber](https://twitter.com/gruber): Creator of [Daring Fireball](https://twitter.com/gruber).
+- [John Gruber](https://twitter.com/gruber): Creator of [Daring Fireball](http://daringfireball.net/).
 - [Karl Ulrich](https://twitter.com/ktulrich?lang=en): Wharton Professor. Teach, research, and practice innovation, entrepreneurship, and design.
 - [Laura Huang](https://twitter.com/LauraHuangLA?lang=en): Wharton professor of #entrepreneurship. Researching effects of judgments, biases, implicit cues on #startup dynamics, #angelinvestor and #VC funding decisions.
 - [Elliot Menschik](https://twitter.com/elliotmenschik?lang=en): Physician/engineer/hacker turned entrepreneur + investor. Founder and fmr lead [@DreamItHealth](https://twitter.com/DreamItHealth). Faculty [@Penn](https://twitter.com/Penn) [@EngEntrep](https://twitter.com/EngEntrep). Gear head. Working on a new venture.
