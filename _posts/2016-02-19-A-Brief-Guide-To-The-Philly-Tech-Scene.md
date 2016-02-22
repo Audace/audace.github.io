@@ -67,8 +67,8 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 
 ### Rising Stars
 
-- [Curalate](www.curalate.com): The leading visual commerce platform, enabling brands to unlock the power of pictures. They just raised a huge Series C round of $27.5M.
-- [Zonoff](www.zonoff.com): Making the brain for the Smart Home. They raised a $31.8M Series B round just over a year ago.
+- [Curalate](http://www.curalate.com): The leading visual commerce platform, enabling brands to unlock the power of pictures. They just raised a huge Series C round of $27.5M.
+- [Zonoff](http://www.zonoff.com): Making the brain for the Smart Home. They raised a $31.8M Series B round just over a year ago.
 - [Bestimators](http://www.bestimators.com/): Shopping for home improvements is broken. We fix it.
 - [RJMetrics](http://www.rjmetrics.com/): Hosted Business Intelligence Platform. They have raised over $20M to date.
 - [Zoomer](http://zoomerdelivery.com/): Outsourced delivery for high-volume restaurants. Backed by First Round Capital and YCombinator.
