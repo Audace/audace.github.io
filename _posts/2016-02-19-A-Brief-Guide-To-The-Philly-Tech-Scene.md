@@ -18,6 +18,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Innovation Center @ 3401](https://www.sciencecenter.org/programs/ic3401): A place to hone your ideas, sharpen your skills and grow your company. With flexible workspace, shared amenities and a collaborative spirit, ic@3401 provides a unique, energizing and supportive environment for your startup in the heart of Philadelphia’s Innovation Neighborhood.
 - [Quorum](https://www.sciencecenter.org/programs/quorum): Uniting the region’s entrepreneurship and innovation communities through a central gathering space on the Science Center campus and related programs that enable idea generators to meet, share and learn.
 - [Venturef0rth](http://venturef0rth.com/): It’s more than just a desk. It’s connection, community, collaboration. Surrounded by beautiful hardwood floors, exposed brick, and industrial steel walls. Our breakrooms provide the perfect space for a brainstorming session, while our lounging area gives you the R&R you require.
+- [Pipeline Philly](http://pipelinephilly.com/): All member options include 24/7 access, free high-speed internet (wired and Wi-Fi), high-design furniture and ergonomic chairs, organic coffee and specialty teas, receptionist services, business center, conference rooms and much more. There are a range of membership options from private suites to virtual offices.
 
 ### Funding
 
