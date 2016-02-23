@@ -20,6 +20,8 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Venturef0rth](http://venturef0rth.com/): It’s more than just a desk. It’s connection, community, collaboration. Surrounded by beautiful hardwood floors, exposed brick, and industrial steel walls. Our breakrooms provide the perfect space for a brainstorming session, while our lounging area gives you the R&R you require.
 - [Pipeline Philly](http://pipelinephilly.com/): All member options include 24/7 access, free high-speed internet (wired and Wi-Fi), high-design furniture and ergonomic chairs, organic coffee and specialty teas, receptionist services, business center, conference rooms and much more. There are a range of membership options from private suites to virtual offices.
 - [Industrious Philadelphia](http://www.industriousoffice.com/locations/philadelphia): Use our common areas, phone room, mother's room, and ample lounge areas. La Colombe coffee, Metropolitan pastries, fresh fruit, and local beer served daily.
+- [DM + D Philly](http://dmdphilly.org/): The Department of Making + Doing (DM+D) is a collaboration between four dynamic Philadelphia-based organizations which blend expertise in design, fabrication, electronics, and art to encourage learning through doing. Our hands-on civic innovation workshop provides the space, tools, + knowledge to empower youth, adults and community organizations to make and do great things throughout the area.
+- [MAKE | Offices](http://www.makeoffices.com/locations/city%20center?gclid=CPKviL3HjMsCFcJahgodJgALbQ): Location, Value and Serendipity. MakeOffices empowers entrepreneurs and innovators with spaces and services to grow their businesses. Rent private offices, open desks, virtual offices, or meeting space. Book a tour in DC, Philly, or Chicago.
 
 ### Funding
 
@@ -41,8 +43,9 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Startup Grind](https://www.startupgrind.com/philadelphia/): Startup Grind is the largest independent startup community, actively educating, inspiring, and connecting 215,000 founders in over 185 cities. We nurture startup ecosystems in 70 countries through events, media, and partnerships with organizations like Google for Entrepreneurs. The cornerstone of our global community are monthly events featuring successful local founders, innovators, educators and investors who share lessons learned on the road to building great companies.
 - [Rise Conference](https://riseconf.com/): A conference discussing how communities are being changed by civic innovation.
 - [OpenAccessPHL](http://openaccessphilly.com/): A network of passionate, engaged and active Philadelphia citizens.
-- [Meetup](http://www.meetup.com/): Leverage Meetup to find the latest tech events in Philly.
+- [Meetup](http://www.meetup.com/): Leverage Meetup to find the latest tech events in Philly. The more active ones is the [Philly New Technology Meetup](http://www.meetup.com/Philly-New-Tech-Meetup/).
 - [Philly Codefest](http://phillycodefest.com/): A 36-hour software and hardware hackathon with the goal of developing innovative solutions to help solve real world challenges. Open to all college students and professionals, Codefest gives everyone the opportunity to grow and learn — no matter your background or skill level.
+- [Philly ETE](http://phillyemergingtech.com/): Entering its 11th year, the Emerging Technologies Conference has brought the leaders of the open source community to Philadelphia to teach about their projects, their work and how these technologies are changing software development. During this time, ETE has become one of the largest gatherings of developers in the mid-Atlantic.
 
 ### Organizations
 
@@ -51,6 +54,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Penn Center for Innovation](http://www.pci.upenn.edu/): Penn’s one-stop-shop for commercialization and entrepreneurship.
 - [TechGirlz](http://www.techgirlz.org/): A 501(c)3 nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 - [Start.Stay.Grow](http://startstaygrow.com/): a series of ongoing events that connect local students with businesses and entrepreneurs in Philly. This program will help bring students into the fold of Philly’s entrepreneurial and technology communities, helping them create valuable relationships, incubate business ideas and grow a regional footprint.
+- [weWorkInPhilly](http://www.weworkinphilly.com/): weWorkInPhilly is a community edited guide to the People, Companies, Groups, Projects, Products, and Resources that make up the creative, technology, and business community in Philadelphia. It was launched by Alex Hillman and Linus Graybill on July 6th, 2011.
 
 ### News
 
