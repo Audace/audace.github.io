@@ -95,6 +95,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Brett Topche](https://twitter.com/BrettTopche): Managing Director at MentorTech Ventures, investing in seed and early stage companies where either the technology or the people come from UPenn.
 - [Juliana Reyes](https://twitter.com/juliana_f_reyes): Reporter [@technicallyPHL](https://twitter.com/technicallyPHL), Co-Prez [@AAJAPhilly](https://twitter.com/AAJAPhilly), Chief Party Officer @ life. Send love letters, not pitches: juliana.f.reyes @ gmail.
 - [Chris Fralic](https://twitter.com/chrisfralic): VC [@FirstRound](https://twitter.com/firstround) and BD always. Technology historian, futurist, sociologist.
+- [Alex Hillman](https://twitter.com/alexhillman): [@hocksncoqs](https://twitter.com/hocksncoqs). I want to share what I've learned building [@indyhall](https://twitter.com/indyhall) to help people build better businesses and communities. [#Coworking](https://twitter.com/hashtag/Coworking?src=hash) is my jam.
 
 ### Jobs
 
