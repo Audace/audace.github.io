@@ -73,7 +73,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Bestimators](http://www.bestimators.com/): Shopping for home improvements is broken. We fix it.
 - [RJMetrics](http://www.rjmetrics.com/): Hosted Business Intelligence Platform. They have raised over $20M to date.
 - [Zoomer](http://zoomerdelivery.com/): Outsourced delivery for high-volume restaurants. Backed by First Round Capital and YCombinator.
-- [Montetate](http://www.monetate.com/): We make it easy to create and deploy super-relevant, multi-channel experiences for unlimited segments.
+- [Monetate](http://www.monetate.com/): We make it easy to create and deploy super-relevant, multi-channel experiences for unlimited segments.
 - [Relay Network](http://www.relaynetwork.com/): Connects you and your customers on your own space for secure messaging.
 - [Cloudmine](https://cloudmine.me/): Provides a mobile foundation - accelerating delivery, and empowering you to focus on creating world-class apps.
 - [LeadiD](http://www.leadid.com/): Witnesses the facts about every lead event, and enables you to measure consumer intent, improve acquisition, and ensure compliance.
