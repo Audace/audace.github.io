@@ -42,7 +42,7 @@ The example you probably have heard of is the infamous prisoner’s dilemma: bot
 | **Tom betrays**     | Dick gets 3 years. Tom goes free. | Each serves 2 years.              |
 
 
-If there’s only one game.. i.e. only interrogation session, then it is optimal for them to betray one another (proof [here](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Generalized_form)).
+If there’s only one game.. i.e. only one interrogation session, then it is optimal for them to betray one another (proof [here](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Generalized_form)).
 
 However, if there are an infinite amount of games, Robert Aumann showed that protecting each other is can sustain itself.
 
