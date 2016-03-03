@@ -65,4 +65,4 @@ On the other hand, if you don’t believe in religion, life stops at death. Ther
 
 This is an idea, whose logic can definitely be improved, that I’ve been struggling with for a while. And I believe the answer could be in your children. If you care enough about your children, the broader game might have more rounds. As long as you derive enough utility from the wellbeing (or rather expected wellbeing) of your children, then you should act in their (and your) best interest.
 
-*it’d be nice to assume I didn’t have to do this… I’d like to believe that there genuinely “good” people out there. I also do believe that not everyone is good.. (erm… take ISIS for example).
+*it’d be nice to assume I didn’t have to do this… I’d like to believe that there genuinely “good” people out there. I also do believe that not everyone is good.. (erm… take [ISIS](http://www.thefiscaltimes.com/2015/03/22/ISIS-s-10-Most-Extreme-Acts-Terror) for example).
