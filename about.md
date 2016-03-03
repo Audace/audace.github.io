@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 My name is William Fry (you can call me Will), and I'm a junior at the University of Pennsylvania. I study international studies and business, as a student in the [Huntsman Program](http://huntsman.upenn.edu/). My interests lie in tech, philosophy, music and entrepreneurship.
