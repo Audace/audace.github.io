@@ -43,7 +43,7 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Startup Grind](https://www.startupgrind.com/philadelphia/): Startup Grind is the largest independent startup community, actively educating, inspiring, and connecting 215,000 founders in over 185 cities. We nurture startup ecosystems in 70 countries through events, media, and partnerships with organizations like Google for Entrepreneurs. The cornerstone of our global community are monthly events featuring successful local founders, innovators, educators and investors who share lessons learned on the road to building great companies.
 - [Rise Conference](https://riseconf.com/): A conference discussing how communities are being changed by civic innovation.
 - [OpenAccessPHL](http://openaccessphilly.com/): A network of passionate, engaged and active Philadelphia citizens.
-- [Meetup](http://www.meetup.com/): Leverage Meetup to find the latest tech events in Philly. The more active ones is the [Philly New Technology Meetup](http://www.meetup.com/Philly-New-Tech-Meetup/).
+- [Meetup](http://www.meetup.com/): Leverage Meetup to find the latest tech events in Philly. The more active ones include the [Philly New Technology Meetup](http://www.meetup.com/Philly-New-Tech-Meetup/), [Philly.rb](http://www.meetup.com/Phillyrb/), [Philly DevOps](http://www.meetup.com/PhillyDevOps/), and [Software as Craft Philadelphia](http://www.meetup.com/Software-as-Craft-Philadelphia/).
 - [Philly Codefest](http://phillycodefest.com/): A 36-hour software and hardware hackathon with the goal of developing innovative solutions to help solve real world challenges. Open to all college students and professionals, Codefest gives everyone the opportunity to grow and learn — no matter your background or skill level.
 - [Philly ETE](http://phillyemergingtech.com/): Entering its 11th year, the Emerging Technologies Conference has brought the leaders of the open source community to Philadelphia to teach about their projects, their work and how these technologies are changing software development. During this time, ETE has become one of the largest gatherings of developers in the mid-Atlantic.
 
@@ -55,6 +55,9 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [TechGirlz](http://www.techgirlz.org/): A 501(c)3 nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 - [Start.Stay.Grow](http://startstaygrow.com/): a series of ongoing events that connect local students with businesses and entrepreneurs in Philly. This program will help bring students into the fold of Philly’s entrepreneurial and technology communities, helping them create valuable relationships, incubate business ideas and grow a regional footprint.
 - [weWorkInPhilly](http://www.weworkinphilly.com/): weWorkInPhilly is a community edited guide to the People, Companies, Groups, Projects, Products, and Resources that make up the creative, technology, and business community in Philadelphia. It was launched by Alex Hillman and Linus Graybill on July 6th, 2011.
+- [Philly DevSlack](https://phillydev.org/): Powered by Slack, PhillyDev is a group of chat rooms and is a great way to connect on tech in Philly.
+- [Girl Develop It - Philly](https://www.girldevelopit.com/chapters/philadelphia): A nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+- [Code for Philly](https://codeforphilly.org/): Code for Philly is volunteering 2.0. We create opportunities for citizens to modernize Philadelphia through the power of the web. Founded under Code for America's inaugural Brigade Program in 2012, Code for Philly currently hosts a weekly Meetup and participates in a number of hackathons and web-based City projects.
 
 ### News
 
@@ -104,3 +107,4 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 ### Jobs
 
 - [AngelList](http://angel.co)
+- [Community Job List](https://github.com/mcelaney/opportunities): Data dump of companies hiring around Philadelphia. This repo is contributed to by the local developer community.
