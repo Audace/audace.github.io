@@ -10,7 +10,7 @@ As I’ve grown older, I’ve tried to hold onto some of these values while reba
 
 <!--more-->
 
-![Finding Elim]({{ site.url }}/public/finding_elim.gif)
+![Finding Elim]({{ site.url }}/public/finding_elim.gif){: .center-image }
 
 ## So, what the hell do I mean by that? ##
 
