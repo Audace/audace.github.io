@@ -55,7 +55,7 @@ A special case of this is the donation game, where each person can donate b at c
 | **Tom helps Dick**                   | ($5-3, $5-3)         | (-$3, $5)                         |
 | **Tom only looks after himself**     | ($5, -$3)            | ($0, $0)                          |
 
-Again, in one game, it makes sense to defect.
+Again, in one game, it makes sense to defect. With infinite games, maybe not.
 
 ## Ok ok, but what does this have to do with charity and religion again? ##
 
