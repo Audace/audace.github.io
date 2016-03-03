@@ -10,6 +10,8 @@ As I’ve grown older, I’ve tried to hold onto some of these values while reba
 
 <!--more-->
 
+![Finding Elim]({{ site.url }}/public/finding_elim.gif)
+
 ## So, what the hell do I mean by that? ##
 
 For better or worse, with the diversity at university and the world as a whole, reasoning from a specific religion or even specific values falls short.  Values seem to be a product of your upbringing and environment. The [Objective List Theory](http://plato.stanford.edu/entries/well-being/#ObjLisThe) doesn’t stand without corresponding ascription to the same values. What I value to be “objectively good” is different from what others value. In order to convince my friends that such acts are objectively good, I find myself having to reason from utility. In the context of charity, game theory becomes important.
