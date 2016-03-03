@@ -67,4 +67,4 @@ This is an idea, whose logic can definitely be improved, that I’ve been strugg
 
 ![Stewie]({{ site.url }}/public/stewie_griffin.png){: .center-image }
 
-*it’d be nice to assume I didn’t have to do this… I’d like to believe that there genuinely “good” people out there. I also do believe that not everyone is good.. (erm… take [ISIS](http://www.thefiscaltimes.com/2015/03/22/ISIS-s-10-Most-Extreme-Acts-Terror) for example).
+*it’d be nice to assume I didn’t have to do this… I’d like to believe that there are genuinely “good” people out there. I also cannot believe that everyone is good.. (erm… take [ISIS](http://www.thefiscaltimes.com/2015/03/22/ISIS-s-10-Most-Extreme-Acts-Terror) for example).
