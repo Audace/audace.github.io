@@ -16,7 +16,7 @@ As I’ve grown older, I’ve tried to hold onto some of these values while reba
 
 For better or worse, with the diversity at university and the world as a whole, reasoning from a specific religion or even specific values falls short.  Values seem to be a product of your upbringing and environment. The [Objective List Theory](http://plato.stanford.edu/entries/well-being/#ObjLisThe) doesn’t stand without corresponding ascription to the same values. What I value to be “objectively good” is different from what others value. In order to convince my friends that such acts are objectively good, I find myself having to reason from utility. In the context of charity, game theory becomes important.
 
-## Remind me again what game theory is! ##
+## Remind me again what game theory is... ##
 
 The Wikipedia one sentence definition…
 
@@ -46,7 +46,7 @@ The example you probably have heard of is the infamous prisoner’s dilemma: bot
 
 If there’s only one game.. i.e. only one interrogation session, then it is optimal for them to betray one another (proof [here](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Generalized_form)).
 
-However, if there are an infinite amount of games, Robert Aumann showed that protecting each other is can sustain itself.
+However, if there are an infinite amount of games, Robert Aumann showed that protecting each other can sustain itself.
 
 A special case of this is the donation game, where each person can donate b at cost c or refuse and keep b. Let’s say b is $5 and c is $3. The corresponding matrix is this:
 
