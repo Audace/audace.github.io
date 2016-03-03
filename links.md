@@ -4,6 +4,7 @@ title: Links
 ---
 News:
 
+- [The Atlantic](http://www.theatlantic.com/)
 - [BBC](http://www.bbc.co.uk)
 - [Twitter](http://twitter.com)
 - [Hacker News](https://news.ycombinator.com)
