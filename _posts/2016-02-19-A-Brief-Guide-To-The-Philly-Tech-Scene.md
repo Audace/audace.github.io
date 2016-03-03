@@ -87,6 +87,8 @@ A friend recently asked me about the Philly tech scene as he knew someone moving
 - [Guru](https://www.getguru.com/): Your team's collective knowledge, everywhere you need it.
 - [Intronet](http://www.intro.net/): Find the connections, information, and expertise you need from people you know and trust.
 - [Biomeme](http://www.biomeme.com/): A smartphone-based DNA detection platform. No lab necessary.
+- [WebLinc](http://www.weblinc.com/): WebLinc is the commerce platform for the fastest growing retailers.
+- [Picwell](http://www.picwell.com/): Simply put, we help people pick the ideal health plan for themselves and their families. With Picwell, the entire experience of selecting a health plan is now easier, faster, better and simpler.
 
 ### People
 
