@@ -22,9 +22,9 @@ The Wikipedia one sentence definition…
 
 >“Game Theory is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers”
 
-Ok.. that got me nowhere.
+Well.. that got me nowhere.
 
-Ok let’s try to boil down the main elements with help from [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/game-theory/)…
+Ok, let’s try to boil down the main elements with help from [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/game-theory/)…
 
 The first component to game theory is the agent: you or me! The agent has preferences. Each preference or option is described by its utility. Utility refers to how we understand the effects of our different options on our own welfare.  The general understanding is that we act to maximize our utility. 
 
