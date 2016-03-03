@@ -17,6 +17,7 @@ For better or worse, with the diversity at university and the world as a whole, 
 ## Remind me again what game theory is! ##
 
 The Wikipedia one sentence definition…
+
 >“Game Theory is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers”
 
 Ok.. that got me nowhere.
