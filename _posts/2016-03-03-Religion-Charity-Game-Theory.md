@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: Religion, Charity, and Game Theory
 comments: true
---
+---
 
 I come from a very Christian home and not in the bad sense of the word. My parents were raised religious but do not blindly believe in a god; they’ve thought it through and believe that religion and, specifically, Christianity, is for them.  As a result, throughout my childhood I was always taught to give to others, to turn the other cheek, to treat others as you would like to be treated, to serve the least of these… values that are pillars of a faith that I have slowly distanced myself from. 
 
