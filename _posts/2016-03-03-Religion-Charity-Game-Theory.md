@@ -37,9 +37,9 @@ Building upon agents, preferences, utility and maximization, a game is when one 
 The example you probably have heard of is the infamous prisoner’s dilemma: both Dick and Tom are arrested and are being interrogated in two separate rooms. The game is shown in this matrix.
 
 |                      | **Dick stays silent** | **Dick betrays** |
-| -------------------- |:---------------------------------:|----------------------------------:|
+| -------------------- |:---------------------------------:|:---------------------------------:|
 | **Tom stays silent** | Each serves 1 year                | Tom gets 3 years. Dick goes free. | 
-| **Tom betrays**     | Dick gets 3 years. Tom goes free. | Each serves 2 years.              |
+| **Tom betrays**     | Dick gets 3 years. Tom goes free.  | Each serves 2 years.              |
 
 
 If there’s only one game.. i.e. only one interrogation session, then it is optimal for them to betray one another (proof [here](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#Generalized_form)).
@@ -49,7 +49,7 @@ However, if there are an infinite amount of games, Robert Aumann showed that pro
 A special case of this is the donation game, where each person can donate b at cost c or refuse and keep b. Let’s say b is $5 and c is $3. The corresponding matrix is this:
 
 |           (Tom, Dick)                 | **Dick helps Tom**   | **Dick only looks after himself** |
-| ------------------------------------- |:--------------------:|----------------------------------:|
+| ------------------------------------- |:--------------------:|:---------------------------------:|
 | **Tom helps Dick**                   | ($5-3, $5-3)         | (-$3, $5)                         |
 | **Tom only looks after himself**     | ($5, -$3)            | ($0, $0)                          |
 
