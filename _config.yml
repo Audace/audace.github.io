@@ -13,7 +13,7 @@ baseurl:             ""
 excerpt_separator: <!--more-->
 
 pages_list:
-  About: '/about'
+  About Me: '/about'
   Links: '/links'
   Archive: '/archive'
 
