@@ -2,7 +2,8 @@
 layout: page
 title: Links
 ---
-Where I get my news:
+Where I get my news
+
 - [The Atlantic](http://www.theatlantic.com/)
 - [BBC](http://www.bbc.co.uk)
 - [Twitter](http://twitter.com)
@@ -14,7 +15,8 @@ Where I get my news:
 - [CrunchBaseDaily](http://static.crunchbase.com/daily/content_twitter.html) (newsletter)
 - [Benedict's Newsletter](http://ben-evans.com/#newsletter) (newsletter)
 
-Blogs that I read:
+Blogs that I read
+
 - [Joel Spolsky's Blog](http://www.joelonsoftware.com/)
 - [Paul Graham's Essays](http://paulgraham.com/articles.html)
 - [Sam Altman's Blog](http://blog.samaltman.com/)
