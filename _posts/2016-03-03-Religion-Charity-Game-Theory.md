@@ -63,7 +63,7 @@ Well the difference is the concept of eschatology and notions of an after-life. 
 
 On the other hand, if you don’t believe in religion, life stops at death. There’s only one round. Why be charitable to those that can’t do anything for you, if there’s not a second round for someone to return that favor to you? Just take your $5 and move on!
 
-This is an idea, whose logic can definitely be improved, that I’ve been struggling with for a while. There has to be some way that it makes sense, from a utilitarian point of view, to argue for being charitable (outside of the utility you may derive from the emotional high after helping someone else). In order for the solution to be qualified, it needs to either find a platform that reasons a single life to have multiple games or find a way for someone to derive more utility from helping someone else.
+This is an idea, whose logic can definitely be improved, that I’ve been struggling with for a while. There has to be some way that it makes sense, from a utilitarian point of view, to argue for being charitable. In order for the solution to be qualified, it needs to either find a platform that reasons a single life to have multiple games or find a way for someone to derive more utility from helping someone else.
 
 I would argue that the answer lies somewhere in the middle. That answer is relationships.
 
