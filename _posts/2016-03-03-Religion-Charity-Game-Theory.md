@@ -6,7 +6,7 @@ comments: true
 
 I come from a very Christian home and not in the bad sense of the word. My parents were raised religious but do not blindly believe in a god; they’ve thought it through and believe that religion and, specifically, Christianity, is for them.  As a result, throughout my childhood I was always taught to give to others, to turn the other cheek, to treat others as you would like to be treated, to serve the least of these… values that are pillars of a faith that I have slowly distanced myself from. 
 
-As I’ve grown older, I’ve tried to hold onto some of these values while rebasing their validity from Christianity to moral or logical reasoning. I cannot claim that you should help the least of these because a guy that lived 2000 years ago said so.  I can claim that you should help the least of these if I’m able to prove that it’s in your best interest.*
+As I’ve grown older, I’ve tried to hold onto some of these values while rebasing their validity from Christianity to moral or logical reasoning. I cannot claim that you should help the least of these because a guy that lived 2000 years ago said so.  I can claim that you should help the least of these if I’m able to prove that it’s in your best interest.* This is not at all to discredit religion but to try to find arguments for charitable actions without it.
 
 <!--more-->
 
@@ -63,7 +63,11 @@ Well the difference is the concept of eschatology and notions of an after-life. 
 
 On the other hand, if you don’t believe in religion, life stops at death. There’s only one round. Why be charitable to those that can’t do anything for you, if there’s not a second round for someone to return that favor to you? Just take your $5 and move on!
 
-This is an idea, whose logic can definitely be improved, that I’ve been struggling with for a while. And I believe the answer could be in your children. If you care enough about your children, the broader game might have more rounds. As long as you derive enough utility from the wellbeing (or rather expected wellbeing) of your children, then you should act in their (and your) best interest.
+This is an idea, whose logic can definitely be improved, that I’ve been struggling with for a while. There has to be some way that it makes sense, from a utilitarian point of view, to argue for being charitable (outside of the utility you may derive from the emotional high after helping someone else). In order for the solution to be qualified, it needs to either find a platform that reasons a single life to have multiple games or find a way for someone to derive more utility from helping someone else.
+
+I would argue that the answer lies somewhere in the middle. That answer is relationships.
+
+If you care enough about your children, the broader game of life might have more rounds. As long as you derive enough utility from the wellbeing (or rather expected wellbeing) of your children, then you should act in their (and your) best interest. For those without children, think of your loved ones. Do you want the world in their lifetime to be better than that in yours? If so, help the disadvantaged. Less poverty, less strife, less unrest.
 
 ![Stewie]({{ site.url }}/public/stewie_griffin.png){: .center-image }
 
