@@ -67,7 +67,9 @@ This is an idea, whose logic can definitely be improved, that I’ve been strugg
 
 I would argue that the answer lies somewhere in the middle. That answer is relationships.
 
-If you care enough about your children, the broader game of life might have more rounds. As long as you derive enough utility from the wellbeing (or rather expected wellbeing) of your children, then you should act in their (and your) best interest. For those without children, think of your loved ones. Do you want the world in their lifetime to be better than that in yours? If so, help the disadvantaged. Less poverty, less strife, less unrest.
+If you care enough about your children, the broader game of life doesn't just have one round. As long as you derive enough utility from the wellbeing (or rather expected wellbeing) of your children, then you should act in their (and your) best interest. If you ignore those in need, someone may ignore your children when they are in need. 
+
+The same applies for those without children - think of your loved ones. Do you want the world in their lifetime to be better than that in yours? If so, help the disadvantaged. Less poverty, less strife, less unrest.
 
 ![Stewie]({{ site.url }}/public/stewie_griffin.png){: .center-image }
 
