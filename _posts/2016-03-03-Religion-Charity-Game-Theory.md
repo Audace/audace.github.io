@@ -59,7 +59,7 @@ Again, in one game, it makes sense to defect. With infinite games, maybe not.
 
 ## Ok ok, but what does this have to do with charity and religion again? ##
 
-Well the difference is the concept of eschatology and notions of an after-life. If you believe in a major religion, there is some idea of a judgment day, whereby you’ll be made accountable for your actions. As religions typically promote helping the less fortunate, it is in your best interest to do so. On judgment day, you'll be recognized for your actions. This corresponds to a notion of multiple games. Today is not the final round, whether literally (as with reincarnation in Hinduism) or figuratively (as with Christianity and Islam).
+Well the difference is the concept of eschatology and notions of an after-life. If you believe in a major religion, there is some idea of a judgment day, whereby you’ll be made accountable for your actions. As religions typically promote helping the less fortunate, it is in your best interest to do so. On judgment day, you'll be recognized for your actions. This corresponds to a notion of multiple games and a unique form of utility. Today is not the final round, whether literally (as with reincarnation in Hinduism) or figuratively (as with Christianity and Islam).
 
 On the other hand, if you don’t believe in religion, life stops at death. There’s only one round. Why be charitable to those that can’t do anything for you, if there’s not a second round for someone to return that favor to you? Just take your $5 and move on!
 
