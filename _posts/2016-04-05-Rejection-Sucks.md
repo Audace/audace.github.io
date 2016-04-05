@@ -13,6 +13,7 @@ Yes, mom, I’m sorry for dropping the f-bomb… but it’s true, especially whe
 ### Decision Trees 101
 
 From Wikipedia:
+
 >It’s a… “decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility.”
 
 The bottom line is that a decision tree maps down your thought process and the possible end results, including your reaction to each.
