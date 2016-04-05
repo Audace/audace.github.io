@@ -4,7 +4,7 @@ title: Rejection sucks. Decision trees make it suck less.
 comments: true
 ---
 
-Today SolutionLoft, the startup I’m working on, was not chosen as a recipient for the Wharton Venture Award – a $10k equity-free grant to work on an idea during the summer. And in short, rejection fucking sucks. Yes, mom, I’m sorry for dropping the f-bomb… but it’s true, especially when it’s the rejection of something you’ve poured so much blood, sweat and tears into. But there’s a way to make it easier and more productive. The basic ingredients are a decision tree, preparation, and discipline.
+Today [SolutionLoft](http://www.solutionloft.com), the startup I’m working on, was not chosen as a recipient for the Wharton Venture Award – a $10k equity-free grant to work on an idea during the summer. And in short, **rejection fucking sucks**. Yes, mom, I’m sorry for dropping the f-bomb… but it’s true, especially when it’s the rejection of something you’ve poured so much blood, sweat and tears into. But there’s a way to make it easier and more productive. The basic ingredients are a decision tree, preparation, and discipline.
 
 <!--more-->
 
