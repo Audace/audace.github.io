@@ -10,8 +10,6 @@ Yes, mom, I’m sorry for dropping the f-bomb… but it’s true, especially whe
 
 <!--more-->
 
-A friend of mine maintains that the best founders think in decision trees. I like to think this is true, and today I was glad I used one. In case you’re finding it hard to remember exactly what a decision tree is…
-
 ### Decision Trees 101
 
 From Wikipedia:
