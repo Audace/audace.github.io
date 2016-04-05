@@ -47,7 +47,7 @@ The problem with plans is that they’re only that. They’re only as strong as 
 3. `CMD-Q` your email client.
 4. Give yourself two hours to let it sink in and for your emotions to run through the due course of reactions. Go for a walk. Get a milkshake.
 5. Two hours later: open up your email client and pull up the email.
-6. Right down the key takeaways of the feedback and what you’ve learned from the process as a whole. Save the note so that you can reflect on it later.
+6. Write down the key takeaways of the feedback and what you’ve learned from the process as a whole. Save the note so that you can reflect on it later.
 7. Archive the email.
 8. Immediately start working on the next step of the decision tree.
 
