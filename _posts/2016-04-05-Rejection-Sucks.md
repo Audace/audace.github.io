@@ -51,7 +51,7 @@ The problem with plans is that they’re only that. They’re only as strong as 
 7. Archive the email.
 8. Immediately start working on the next step of the decision tree.
 
-By having a set routine for the outcome combined with a preplanned next step in your decision tree, you allow yourself to emotionally discharge while not losing your productivity or end vision.
+By having a set routine for the outcome combined with a preplanned next step in your decision tree, you allow yourself to emotionally discharge without losing your productivity or end vision.
 
 ### Summary
 
