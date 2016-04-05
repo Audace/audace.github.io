@@ -44,7 +44,7 @@ The problem with plans is that they’re only that. They’re only as strong as 
 
 1. Before opening the email, remind yourself what your decision tree dictates that you’re going to do in each case.
 2. Open the email and run through it to understand the end result.
-3. CMD-Q your email client
+3. `CMD-Q` your email client.
 4. Give yourself two hours to let it sink in and for your emotions to run through the due course of reactions. Go for a walk. Get a milkshake.
 5. Two hours later: open up your email client and pull up the email.
 6. Right down the key takeaways of the feedback and what you’ve learned from the process as a whole. Save the note so that you can reflect on it later.
