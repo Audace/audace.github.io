@@ -32,7 +32,7 @@ Consider the No Child Left Behind Act (2002), the whole: “improving the educat
 
 It seems likely that if bureaucracy thwarted improving opportunity for children from lower-income families, it will also thwart teaching computer science in high schools.
 
-The biggest stickler and the one that is equally exciting as it is absolute in preventing the realization of politicians’ hopes is progress. Wait what?
+Nevertheless, the biggest stickler and the one that is equally exciting as it is absolute in preventing the realization of politicians’ hopes is **progress**. Wait what?
 
 I’m confident that by the time CS is implemented in public schools across America** it will be as useless (or useful) as high school chemistry. Knowing the syntax of java will be like knowing the periodic table. A good foundation? Yes. Useful for employment? …not so much.
 
