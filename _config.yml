@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Setup
 title:               William Fry
-tagline:             Musings of a college student
+tagline:             
 url:                 http://williamrfry.com
 paginate:            4
 baseurl:             ""
