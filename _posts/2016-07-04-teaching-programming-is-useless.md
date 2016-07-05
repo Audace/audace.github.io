@@ -46,9 +46,10 @@ So if there is a conclusion to this, it’s threefold:
 
 1. If you really want to get the competitive edge on the job market and maybe make the next snapchat, learn now. Don’t wait for it to be taught in your school.
 
-2. Teaching computer science in school won’t “revolutionize” employment for our generation. It’ll just be another subject, albeit a bit more modern with a shorter history.
+2. Teaching computer science in school won’t “revolutionize” employment for our generation. It’ll just be another subject, albeit a bit more modern and with a shorter history.
 
 3. The future of software development is more software and less developers. I find that very exciting and I hope you do too.
 
 *Too late to reach the intended results.
+
 **With qualified teachers, etc. I had a volleyball coach who didn’t have a laptop teach my AP CS course.
