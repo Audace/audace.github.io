@@ -22,7 +22,7 @@ Teaching computer science in schools is **too late** to achieve the goals which 
 
 ### Timing, bureaucracy and progress will prevent this utopia
 
-Like most things the government does, this too is quite late. Rather than wait until success on the app store has similar odds as the lottery, four years ago would have been nice. This, however, is a shitty crux to any argument because most governments aren’t known for their timing. Heck, mankind is pretty bad as a whole. Lagged reactions FTW!
+Like most things the government does, this too is quite late. Rather than wait until success on the app store has similar odds as the lottery, four years ago would have been nice. This, however, is a shitty crux to any argument because most governments aren’t known for their timing. Heck, mankind is pretty bad as a whole (*cough* renewable energy *cough*). Lagged reactions FTW!
 
 Bureaucracy, now this is a *serious* problem. If bureaucracy did not exist, rolling out coding across all schools today would likely achieve the marketed goals. But in reality, it will likely take a decade. At least. 
 
