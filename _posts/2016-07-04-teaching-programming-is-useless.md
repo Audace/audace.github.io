@@ -38,11 +38,16 @@ By the time CS is implemented in public schools across America** it will be as u
 
 Oh, but you can create apps with computer science! Sure, you can. But by then, program synthesis will have made anything doable by an intelligent high schooler as easy as typing in a few sentences. Or clicking a few buttons. We already did this with [basic](https://www.squarespace.com/) [websites](https://www.weebly.com/). The startup I’m building is [doing this](http://www.solutionloft.com/about) now with scripts. Microsoft research [has experimented](https://www.touchdevelop.com/) with even greater ambitions.
 
-Software is eating the world. And it’s eating itself. Any programming that is foundational (and simple) enough to be taught in high school, won’t have enough power to create the powerball winners of the past decades. Sure, there may be a few lottery winners. But they’ll be the ones repackaging the same features in different combinations. The only difference is that in ten years they won’t need programming to do it. They’ll have a nice user interface.
+**Software is eating the world. And it’s eating itself.**
 
-So if there is a conclusion to this, it’s threefold.
+Any programming that is foundational (and simple) enough to be taught in high school, won’t have enough power to create the powerball winners of the past decades. Sure, there may be a few lottery winners. But they’ll be the ones repackaging the same features in different combinations. The only difference is that in ten years they won’t need programming to do it. They’ll have a nice user interface.
+
+So if there is a conclusion to this, it’s threefold:
+
 1. If you really want to get the competitive edge on the job market and maybe make the next snapchat, learn now. Don’t wait for it to be taught in your school.
+
 2. Teaching computer science in school won’t “revolutionize” employment for our generation. It’ll just be another subject, albeit a bit more modern with a shorter history.
+
 3. The future of software development is more software and less developers. I find that very exciting and I hope you do too.
 
 *Too late to reach the intended results.
