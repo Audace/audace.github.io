@@ -10,7 +10,7 @@ comments: true
 
 ### I think this is necessary, good, and too late*
 
-Teaching computer science is **necessary** because computers, and the software that brings them to life, have become man’s most successful tool. As a species that differentiates itself by tools, the computer is the hallmark of homo sapiens. Computers are necessary in daily life. Internet access has become a human right. 
+Teaching computer science is **necessary** because computers, and the software that brings them to life, have become man’s most successful tool. As a species that differentiates itself by tools, the computer is the hallmark of homo sapiens. Computers are necessary in daily life. Internet access has become a [human right](http://gizmodo.com/internet-access-is-now-a-basic-human-right-1783081865). 
 
 ![Progression]({{ site.url }}/public/tools.jpg){: .center-image }
 
