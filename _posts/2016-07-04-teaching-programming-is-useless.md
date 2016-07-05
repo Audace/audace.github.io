@@ -34,7 +34,7 @@ It seems likely that if bureaucracy thwarted improving opportunity for children 
 
 Nevertheless, the biggest stickler and the one that is equally exciting as it is absolute in preventing the realization of politicians’ hopes is **progress**. Wait what?
 
-I’m confident that by the time CS is implemented in public schools across America** it will be as useless (or useful) as high school chemistry. Knowing the syntax of java will be like knowing the periodic table. A good foundation? Yes. Useful for employment? …not so much.
+By the time CS is implemented in public schools across America** it will be as useless (or useful) as high school chemistry. Knowing the syntax of java will be like knowing the periodic table. A good foundation? Yes. Useful for employment? …not so much.
 
 Oh, but you can create apps with computer science! Sure, you can. But by then, program synthesis will have made anything doable by an intelligent high schooler as easy as typing in a few sentences. Or clicking a few buttons. We already did this with [basic](https://www.squarespace.com/) [websites](https://www.weebly.com/). The startup I’m building is [doing this](http://www.solutionloft.com/about) now with scripts. Microsoft research [has experimented](https://www.touchdevelop.com/) with even greater ambitions.
 
