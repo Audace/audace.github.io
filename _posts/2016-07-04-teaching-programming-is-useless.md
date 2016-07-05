@@ -8,7 +8,7 @@ comments: true
 
 <!--more-->
 
-##I think this is necessary, good, and too late*
+### I think this is necessary, good, and too late*
 
 Teaching computer science is **necessary** because computers, and the software that brings them to life, have become man’s most successful tool. As a species that differentiates itself by tools, the computer is the hallmark of homo sapiens. Computers are necessary in daily life. Internet access has become a human right. 
 
@@ -20,7 +20,7 @@ Teaching computer science in schools is **good** because building the foundation
 
 Teaching computer science in schools is **too late** to achieve the goals which politicians champion. High schoolers learning computer science sounds great. It sounds like employment for our generation will be no problem, if everyone could just take all of those unoccupied software jobs. It sounds like high schoolers will be better prepared for the workforce than ever before. This is not true.
 
-##Timing, bureaucracy and progress will prevent this utopia
+### Timing, bureaucracy and progress will prevent this utopia
 
 Like most things the government does, this too is quite late. Rather than wait until success on the app store has similar odds as the lottery, four years ago would have been nice. This, however, is a shitty crux to any argument because most governments aren’t known for their timing. Heck, mankind is pretty bad as a whole. Lagged reactions FTW!
 
