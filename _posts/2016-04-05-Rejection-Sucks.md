@@ -24,7 +24,7 @@ In more detail, any decision has a number of options that you can choose. From a
 
 Without decision trees, the flow of events looks a little like the following:
 
-![Rejection without trees]({{ site.url }}/public/without_trees.png){: .center-image }
+![Rejection without trees](/assets/without_trees.png){: .center-image }
 
 While it’s not a problem if everything goes well (i.e. the events turn out as you would like), if things don’t go as planned, the emotional toll is much harder. Rejection sucks much worse. Without having prepared for the possibility of failure with the help of a decision tree, you’re left with a much higher cognitive load. 
 
@@ -34,7 +34,7 @@ Now you must not only reconcile and reflect on events not playing out in your fa
 
 With decision trees, the decision about what to do next is planned for in advance:
 
-![Rejection with trees]({{ site.url }}/public/with_trees.png){: .center-image }
+![Rejection with trees](/assets/with_trees.png){: .center-image }
 
 As you can see, the decision on whether to quit or keep on has already been made by you. On the chance that you get rejected, you don’t have the added burden of deciding what to do next. This allows you to let your emotions have an hour or two to vent before immediately moving on to what’s next on the tree. This is where discipline becomes key.
 

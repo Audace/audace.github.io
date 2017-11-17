@@ -10,7 +10,7 @@ As I’ve grown older, I’ve tried to hold onto some of these values while reba
 
 <!--more-->
 
-![Finding Elim]({{ site.url }}/public/finding_elim.gif){: .center-image }
+![Finding Elim](/assets/finding_elim.gif){: .center-image }
 
 ## So, what the hell do I mean by that? ##
 
@@ -51,7 +51,7 @@ However, if there are an infinite amount of games, Robert Aumann showed that pro
 A special case of this is the donation game, where each person can donate b at cost c or refuse and keep b. Let’s say b is $5 and c is $3. The corresponding matrix is this:
 
 |           (Tom, Dick)                 | **Dick helps Tom**   | **Dick only looks after himself** |
-| ------------------------------------- |:--------------------:|:---------------------------------:|
+| ------------------------------------- |:--------------------:|:-------------------------------:|
 | **Tom helps Dick**                   | ($5-3, $5-3)         | (-$3, $5)                         |
 | **Tom only looks after himself**     | ($5, -$3)            | ($0, $0)                          |
 
@@ -71,6 +71,6 @@ If you care enough about your children, the broader game of life doesn't just ha
 
 The same applies for those without children - think of your loved ones. Do you want the world in their lifetime to be better than that in yours? If so, help the disadvantaged. Less poverty, less strife, less unrest.
 
-![Stewie]({{ site.url }}/public/stewie_griffin.png){: .center-image }
+![Stewie](/assets/stewie_griffin.png){: .center-image }
 
 *it’d be nice to assume I didn’t have to do this… I’d like to believe that there are genuinely “good” people out there. I also cannot believe that everyone is good.. (erm… take [ISIS](http://www.thefiscaltimes.com/2015/03/22/ISIS-s-10-Most-Extreme-Acts-Terror) for example).

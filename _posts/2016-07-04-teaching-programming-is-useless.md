@@ -12,7 +12,7 @@ comments: true
 
 Teaching computer science is **necessary** because computers, and the software that brings them to life, have become man’s most successful tool. As a species that differentiates itself by tools, the computer is the hallmark of homo sapiens. Computers are necessary in daily life. Internet access has become a [human right](http://gizmodo.com/internet-access-is-now-a-basic-human-right-1783081865). 
 
-![Progression]({{ site.url }}/public/tools.jpg){: .center-image }
+![Progression](/assets/tools.jpg){: .center-image }
 
 It is likely necessary to understand, even at the most amateur of levels, how our most prized tool works, how to make it do what you want, and how to make it better if it powers all of your waking hours. In the context of high school, this is as necessary as learning about biology.
 
@@ -26,7 +26,7 @@ Like most things the government does, this too is quite late. Rather than wait u
 
 Bureaucracy, now this is a *serious* problem. If bureaucracy did not exist, rolling out coding across all schools today would likely achieve the marketed goals. But in reality, it will likely take a decade. At least. 
 
-![Bureaucracy]({{ site.url }}/public/bureaucracy.jpg){: .center-image }
+![Bureaucracy](/assets/bureaucracy.jpg){: .center-image }
 
 Consider the No Child Left Behind Act (2002), the whole: “improving the educational opportunities and outcomes for children from lower-income families.” Seems like a generally good idea, right? The government was definitely aggressive in implementing such a change, no? Well, the actual deadline for schools doing anything about it was 2013-2014. On top of that, [38% of schools were failing to make adequate progress in 2010](http://www.edweek.org/ew/section/multimedia/no-child-left-behind-overview-definition-summary.html). A year later, the U.S. Secretary of Education [claimed that 82% of schools would be labeled “failing.”](http://www.ed.gov/news/press-releases/duncan-says-82-percent-americas-schools-could-fail-under-nclb-year)
 

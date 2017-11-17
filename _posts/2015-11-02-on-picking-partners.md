@@ -21,6 +21,6 @@ The reason for the placement of the players is the value of certainty and propen
 
 The second reason for the placement of the players is that competence follows the line of the below graph, where the x-axis is a measure of competence and the y-axis is propensity to learn. After a certain base level of competence, there is essentially an exponential capacity to learn or teach oneself how to solve problems.
 
-![Graph of competence]({{ site.url }}/public/graph.png)
+![Graph of competence](/assets/graph.png)
 
 Given that learning requires time, it is obvious that for short-term, complex tasks, where the stranger or mean acquaintance is known to be more competent than the friend, it is advantageous to work with that person. Any unknown weakness or strength of that person does not matter if completion of the task is urgent. However, as soon as time is not the driving restrictor to the task, optimize certainty and the propensity to learn – pick the friend as your partner.
