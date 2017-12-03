@@ -4,7 +4,7 @@ title: A Proposal for Enforcing Code Documentation
 comments: true
 ---
 
-A common issue with code bases is documentation. This can range from from lacking
+A common issue with codebases is documentation. This can range from from lacking
 documentation altogether to having outdated documentation that stills claims the
 world is flat. It's difficult, if not impossible, to enforce routine doc updates.
 There are frameworks for unit and integration tests. There are linters for enforcing
@@ -32,7 +32,7 @@ the docstrings and in-line comments for more clarity.
 # Room for Improvement
 
 Unfortunately, the intended workflow of high-level documentation supported by
-granular code-level comments falls apart as the code base evolves over-time. The
+granular code-level comments falls apart as the codebase evolves over-time. The
 in-line comments are the first to go outdated. Next are the class and function-level
 docstrings. Sometimes the functionality evolves enough that certain behavior described
 in the README no longer exists, or at least not in the way originally specified. Developers
