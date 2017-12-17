@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Danger of Freshman Year
+title: Freshman Year
 comments: true
 ---
 After completing my freshman year at Penn, I took a bit of time to reflect on what I could have done better or differently. I found a recurring theme that explained my performance, that is to say that I lacked any form of goals for my time at Penn. The steps leading up to my first year of college did not help.
@@ -15,4 +15,3 @@ The college admissions process creates a race to being well-rounded and involved
 In high school, you could be nearly the best at everything without too much effort. If you truly wanted to, you could be valedictorian, president of clubs, and participate in multiple sports. High school doesn’t teach you how to optimize your time or set goals and pick the things your best at. The goals are already set. The bar is quite low.
 
 In college, you cannot be the best at everything. You have to pick your battles, refine the skills that are most important, and define your own metrics. It’s very easy from going from the best to simply mediocre. You can be involved in a club or two, make decent grades, and have your share of fun. But that’s not what you busted your ass and became a Type-A student to achieve. So if you’re coming into your freshman year this fall, I challenge you to define three very detailed and measurable goals for your first year. If I did it over again, it would be a 3.6 GPA, launching one web product, and developing a close relationship with one of my professors.
-
