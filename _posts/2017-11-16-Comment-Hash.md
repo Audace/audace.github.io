@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Proposal for Enforcing Code Documentation
+title: A Proposal for Keeping Code Comments Up-to-date
 comments: true
 ---
 
