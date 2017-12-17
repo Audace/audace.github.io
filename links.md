@@ -19,3 +19,4 @@ A list of papers, blog posts and articles I've found valuable:
 |Chris Granger|[All ideas are old ideas](http://www.chris-granger.com/2012/10/05/all-ideas-are-old-ideas/)|Smalltalk, Lisp and Logo|
 |Light Table|[Pain we forgot](http://lighttable.com/2014/05/16/pain-we-forgot/)|What's wrong with programming|
 |Light Table|[Imperative thinking and the making of sandwiches](http://lighttable.com/2014/07/18/imperative-thinking/)|The beauty of SQL|
+|Gil Mizrahi|[Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)|Perfect intro to Haskell|
