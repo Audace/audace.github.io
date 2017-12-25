@@ -20,3 +20,5 @@ A list of papers, blog posts and articles I've found valuable:
 |Light Table|[Pain we forgot](http://lighttable.com/2014/05/16/pain-we-forgot/)|What's wrong with programming|
 |Light Table|[Imperative thinking and the making of sandwiches](http://lighttable.com/2014/07/18/imperative-thinking/)|The beauty of SQL|
 |Gil Mizrahi|[Reading Simple Haskell](https://soupi.github.io/rfc/reading_simple_haskell/)|Perfect intro to Haskell|
+|Aaron Kent|[The Accidental Complexity of Syntax](https://blog.isomorf.io/the-accidental-complexity-of-syntax-7ecd8b1fb42)|Complexity in Syntax|
+|Aaron Kent|[On Reuse in Software Development](https://blog.isomorf.io/on-reuse-in-software-development-2ebd3f3b0517)|Idealistic code reuse|

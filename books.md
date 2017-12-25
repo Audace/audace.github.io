@@ -16,6 +16,9 @@ To read:
 - [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/gp/product/0061353248?ie=UTF8&camp=1789&creativeASIN=0061353248&linkCode=xm2&tag=favobooks0b-20) by Dr. Dan Ariely
 - [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/gp/product/0375758259?ie=UTF8&camp=1789&creativeASIN=0375758259&linkCode=xm2&tag=favobooks0b-20) by Roger Lowenstein
 - [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves](https://www.amazon.com/gp/product/0143118242?ie=UTF8&camp=1789&creativeASIN=0143118242&linkCode=xm2&tag=favobooks0b-20) by Andrew Ross Sorkin
+- [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
+- [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
+- [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
 
 Favorites:
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
