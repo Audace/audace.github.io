@@ -20,7 +20,7 @@ To read:
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
 
 Favorites:
-- - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
+- [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=FKXXKS467F0A30PM9JX6) by Ashlee Vance
 - [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145/ref=sr_1_1?s=books&ie=UTF8&qid=1513461926&sr=1-1&keywords=atlas+shrugged) by Ayn Rand
