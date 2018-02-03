@@ -16,7 +16,7 @@ Aziz Ansari. [Here's](https://www.youtube.com/watch?v=BZqdeeKVoBc) one of my per
 
 Keeping with this trend, I started off today by firing up Chrome only to
 read an appalling [Medium post](https://medium.com/@perryconeybeer/what-i-learned-working-for-a-silicon-valley-startup-8ca627c6f47d) by Perry Coneybeer about Ripcord's own failures.
-As I was reading the post, I started reflecting on startups and the roll of HR.
+As I was reading the post, I started reflecting on startups and the role of HR.
 I think one thing that's special about startups is that by their nature they're
 lean machines designed to do one thing and one thing only: find product-market-fit and
 turn on the gas before they run out of money. This often means being scrappy
