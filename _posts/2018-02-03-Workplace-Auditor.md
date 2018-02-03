@@ -60,3 +60,9 @@ with publicly accessible ratings as well as the employee hotline. Companies will
 per complaint basis. This may need to be packaged into a quarterly allowance that rolls over if no complaints occur.
 The pricing can't be substantial enough that employees factor in the associated cost with whether they
 should speak up.
+
+## Conclusion
+
+This all comes with the caveat that I'm lucky to not have worked at a place
+where this has been an issue. That being said, I feel like this should exist and seems
+like it could. Interested in feedback.
