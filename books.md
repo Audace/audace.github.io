@@ -36,3 +36,5 @@ Favorites:
 - [The Five People You Meet in Heaven](https://www.amazon.com/Five-People-You-Meet-Heaven/dp/1401308589) by Mitch Albom
 - [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/) by Andrew Grove
+- [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355) by Matthew Dixon and Brent Adamson
+- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
