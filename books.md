@@ -18,6 +18,8 @@ To read:
 - [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves](https://www.amazon.com/gp/product/0143118242?ie=UTF8&camp=1789&creativeASIN=0143118242&linkCode=xm2&tag=favobooks0b-20) by Andrew Ross Sorkin
 - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
+- [The Attention Economy: Understanding the New Currency of Business](https://www.amazon.com/Attention-Economy-Understanding-Currency-Business/dp/1578518717) by Thomas H. Davenport and John C. Beck
+- [Confessions of an Advertising Man](https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X) by David Olgivy
 
 Favorites:
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
@@ -32,3 +34,5 @@ Favorites:
 - [In Spite of the Gods: The Rise of Modern India](https://www.amazon.com/Spite-Gods-Rise-Modern-India/dp/1400079772) by Edward Luce
 - [The Prince](https://www.amazon.com/Prince-Dover-Thrift-Editions/dp/0486272745) by Niccolò Machiavelli
 - [The Five People You Meet in Heaven](https://www.amazon.com/Five-People-You-Meet-Heaven/dp/1401308589) by Mitch Albom
+- [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/) by Andrew Grove
