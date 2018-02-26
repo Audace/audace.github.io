@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea - A Workplace Auditor
+title: The U.S. Needs A Workplace Auditor
 comments: true
 ---
 
