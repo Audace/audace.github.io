@@ -16,13 +16,16 @@ To read:
 - [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/gp/product/0061353248?ie=UTF8&camp=1789&creativeASIN=0061353248&linkCode=xm2&tag=favobooks0b-20) by Dr. Dan Ariely
 - [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/gp/product/0375758259?ie=UTF8&camp=1789&creativeASIN=0375758259&linkCode=xm2&tag=favobooks0b-20) by Roger Lowenstein
 - [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves](https://www.amazon.com/gp/product/0143118242?ie=UTF8&camp=1789&creativeASIN=0143118242&linkCode=xm2&tag=favobooks0b-20) by Andrew Ross Sorkin
-- [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
 - [The Attention Economy: Understanding the New Currency of Business](https://www.amazon.com/Attention-Economy-Understanding-Currency-Business/dp/1578518717) by Thomas H. Davenport and John C. Beck
 - [Confessions of an Advertising Man](https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X) by David Olgivy
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
+- [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
+- [Attacks](https://www.amazon.com/Attacks-Erwin-Rommel/dp/0960273603/) by Erwin Rommel
 
 Favorites:
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
+- [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=FKXXKS467F0A30PM9JX6) by Ashlee Vance
 - [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145/ref=sr_1_1?s=books&ie=UTF8&qid=1513461926&sr=1-1&keywords=atlas+shrugged) by Ayn Rand
@@ -38,3 +41,4 @@ Favorites:
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/) by Andrew Grove
 - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355) by Matthew Dixon and Brent Adamson
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
+- [A First-Rate Madness: Uncovering the Links Between Leadership and Mental Illness](https://www.amazon.com/First-Rate-Madness-Uncovering-Between-Leadership/dp/0143121332) by Nassir Ghaemi
