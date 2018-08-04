@@ -20,10 +20,12 @@ To read:
 - [The Attention Economy: Understanding the New Currency of Business](https://www.amazon.com/Attention-Economy-Understanding-Currency-Business/dp/1578518717) by Thomas H. Davenport and John C. Beck
 - [Confessions of an Advertising Man](https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X) by David Olgivy
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
-- [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
+- [The Path to Power (The Years of Lyndon Johnson, Volume 1)](https://www.amazon.com/Path-Power-Years-Lyndon-Johnson/dp/0679729453) by Robert A. Caro
+- [The House of Getty](https://www.amazon.com/House-Getty-Russell-Miller/dp/1448204356) by Russell Miller
 - [Attacks](https://www.amazon.com/Attacks-Erwin-Rommel/dp/0960273603/) by Erwin Rommel
 
 Favorites:
+- [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
 - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
