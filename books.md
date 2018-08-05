@@ -23,6 +23,22 @@ To read:
 - [The Path to Power (The Years of Lyndon Johnson, Volume 1)](https://www.amazon.com/Path-Power-Years-Lyndon-Johnson/dp/0679729453) by Robert A. Caro
 - [The House of Getty](https://www.amazon.com/House-Getty-Russell-Miller/dp/1448204356) by Russell Miller
 - [Attacks](https://www.amazon.com/Attacks-Erwin-Rommel/dp/0960273603/) by Erwin Rommel
+- [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593) by Michael Lewis
+- [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=WWR2B08JB0SH22KXW7VH) by Daniel Kahneman
+- [Lessons from Private Equity Any Company Can Use (Memo to the CEO)](https://www.amazon.com/Lessons-Private-Equity-Company-Memo/dp/1422124959) by Orit Gadiesh and Hugh MacArthur
+- [Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity](https://www.amazon.com/Financial-Modeling-Valuation-Practical-Investment/dp/1118558766) by Paul Pignataro
+- [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554) by Bryan Burrough and John Helyar
+- [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond Raiders](https://www.amazon.com/Predators-Ball-Burnham-JunkBond-Raiders/dp/0140120904) by Connie Bruck
+- [Mastering Private Equity: Transformation via Venture Capital, Minority Investments and Buyouts](https://www.amazon.com/Mastering-Private-Equity-Transformation-Investments/dp/1119327970) by Claudia Zeisberger, Michael Prahl and Bowen White
+- [Den of Thieves](https://www.amazon.com/Den-Thieves-James-B-Stewart/dp/067179227X) by James B. Stewart
+- [Sapiens: A Brief History of Humankind](https://www.amazon.com/gp/product/0062316117) by Yuval Noah Harari
+- [Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/gp/product/1501135929) by Phil Knight
+- [Hillbilly Elegy: A Memoir of a Family and Culture in Crisis](https://www.amazon.com/gp/product/0062300555) by J. D. Vance
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/gp/product/0062457713) by Mark Manson
+- [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) by Jordan B. Peterson
+- [Losing Ground: American Social Policy, 1950-1980](https://www.amazon.com/Losing-Ground-American-Social-1950-1980/dp/0465065880) by Charles Murray
+- [The Bell Curve: Intelligence and Class Structure in American Life](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299) by Richard J. Herrnstein and Charles Murray
+- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
 
 Favorites:
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
