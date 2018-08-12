@@ -23,7 +23,6 @@ To read:
 - [The Path to Power (The Years of Lyndon Johnson, Volume 1)](https://www.amazon.com/Path-Power-Years-Lyndon-Johnson/dp/0679729453) by Robert A. Caro
 - [The House of Getty](https://www.amazon.com/House-Getty-Russell-Miller/dp/1448204356) by Russell Miller
 - [Attacks](https://www.amazon.com/Attacks-Erwin-Rommel/dp/0960273603/) by Erwin Rommel
-- [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593) by Michael Lewis
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=WWR2B08JB0SH22KXW7VH) by Daniel Kahneman
 - [Lessons from Private Equity Any Company Can Use (Memo to the CEO)](https://www.amazon.com/Lessons-Private-Equity-Company-Memo/dp/1422124959) by Orit Gadiesh and Hugh MacArthur
 - [Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity](https://www.amazon.com/Financial-Modeling-Valuation-Practical-Investment/dp/1118558766) by Paul Pignataro
@@ -39,9 +38,11 @@ To read:
 - [Losing Ground: American Social Policy, 1950-1980](https://www.amazon.com/Losing-Ground-American-Social-1950-1980/dp/0465065880) by Charles Murray
 - [The Bell Curve: Intelligence and Class Structure in American Life](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299) by Richard J. Herrnstein and Charles Murray
 - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
+- [My American Journey](https://www.amazon.com/My-American-Journey-Colin-Powell/dp/0345466411) by Colin Powell
 
 Favorites:
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
+- [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593) by Michael Lewis
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
 - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
