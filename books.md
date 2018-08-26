@@ -39,6 +39,10 @@ To read:
 - [The Bell Curve: Intelligence and Class Structure in American Life](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299) by Richard J. Herrnstein and Charles Murray
 - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
 - [My American Journey](https://www.amazon.com/My-American-Journey-Colin-Powell/dp/0345466411) by Colin Powell
+- [The Great Alignment: Race, Party Transformation, and the Rise of Donald Trump](https://www.amazon.com/Great-Alignment-Party-Transformation-Donald/dp/0300207131) by Alan Abramowitz
+- [Superminds: The Surprising Power of People and Computers Thinking Together](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135) by Thomas Malone
+- [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything/dp/0316392006) by David Christian
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman
 
 Favorites:
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
