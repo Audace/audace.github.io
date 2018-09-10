@@ -13,7 +13,6 @@ To read:
 - [Analysis Patterns: Reusable Object Models](https://www.amazon.com/gp/product/0201895420?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201895420) by Martin Fowler
 - [Influence: The Psychology of Persuasion](https://www.amazon.com/gp/product/006124189X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006124189X&linkCode=as2&tag=favobooks0b-20) by Robert B. Cialdini
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/gp/product/0262510871?ie=UTF8&camp=1789&creativeASIN=0262510871&linkCode=xm2&tag=favobooks0b-20) by Harold Abelson, Gerald Jay Sussman, Julie Sussman
-- [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/gp/product/0061353248?ie=UTF8&camp=1789&creativeASIN=0061353248&linkCode=xm2&tag=favobooks0b-20) by Dr. Dan Ariely
 - [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/gp/product/0375758259?ie=UTF8&camp=1789&creativeASIN=0375758259&linkCode=xm2&tag=favobooks0b-20) by Roger Lowenstein
 - [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves](https://www.amazon.com/gp/product/0143118242?ie=UTF8&camp=1789&creativeASIN=0143118242&linkCode=xm2&tag=favobooks0b-20) by Andrew Ross Sorkin
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
@@ -37,12 +36,11 @@ To read:
 - [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) by Jordan B. Peterson
 - [Losing Ground: American Social Policy, 1950-1980](https://www.amazon.com/Losing-Ground-American-Social-1950-1980/dp/0465065880) by Charles Murray
 - [The Bell Curve: Intelligence and Class Structure in American Life](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299) by Richard J. Herrnstein and Charles Murray
-- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
-- [My American Journey](https://www.amazon.com/My-American-Journey-Colin-Powell/dp/0345466411) by Colin Powell
 - [The Great Alignment: Race, Party Transformation, and the Rise of Donald Trump](https://www.amazon.com/Great-Alignment-Party-Transformation-Donald/dp/0300207131) by Alan Abramowitz
 - [Superminds: The Surprising Power of People and Computers Thinking Together](https://www.amazon.com/Superminds-Surprising-Computers-Thinking-Together/dp/0316349135) by Thomas Malone
 - [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything/dp/0316392006) by David Christian
 - [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) by Don Norman
+- [World Order](https://www.amazon.com/World-Order-Henry-Kissinger/dp/0143127713) by Henry Kissinger
 
 Favorites:
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
@@ -50,13 +48,16 @@ Favorites:
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
 - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) by Bill Walsh
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel and Blake Masters
+- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=FKXXKS467F0A30PM9JX6) by Ashlee Vance
 - [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145/ref=sr_1_1?s=books&ie=UTF8&qid=1513461926&sr=1-1&keywords=atlas+shrugged) by Ayn Rand
 - [The Fountainhead](https://www.amazon.com/Fountainhead-Ayn-Rand/dp/0451191153/ref=sr_1_1?s=books&ie=UTF8&qid=1513461954&sr=1-1&keywords=fountainhead) by Ayn Rand
+- [My American Journey](https://www.amazon.com/My-American-Journey-Colin-Powell/dp/0345466411) by Colin Powell
 - [The Road to Character](https://www.amazon.com/Road-Character-David-Brooks/dp/0812983416/ref=sr_1_1?s=books&ie=UTF8&qid=1513461981&sr=1-1&keywords=a+road+to+character) by David Brooks
 - [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=sr_1_1?s=books&ie=UTF8&qid=1513462008&sr=1-1&keywords=blue+ocean+strategy) by W. Chan Kim and Renée Mauborgne
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?s=books&ie=UTF8&qid=1513462054&sr=1-1&keywords=lean+startup) by Eric Ries
 - [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754/ref=sr_1_1?s=books&ie=UTF8&qid=1513462088&sr=1-1&keywords=venture+deals) by Brad Feld
+- [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/gp/product/0061353248?ie=UTF8&camp=1789&creativeASIN=0061353248&linkCode=xm2&tag=favobooks0b-20) by Dr. Dan Ariely
 - [In Spite of the Gods: The Rise of Modern India](https://www.amazon.com/Spite-Gods-Rise-Modern-India/dp/1400079772) by Edward Luce
 - [The Prince](https://www.amazon.com/Prince-Dover-Thrift-Editions/dp/0486272745) by Niccolò Machiavelli
 - [The Five People You Meet in Heaven](https://www.amazon.com/Five-People-You-Meet-Heaven/dp/1401308589) by Mitch Albom
