@@ -42,6 +42,7 @@ To read:
 - [World Order](https://www.amazon.com/World-Order-Henry-Kissinger/dp/0143127713) by Henry Kissinger
 
 Favorites:
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/gp/product/0062273205) by Ben Horowitz
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593) by Michael Lewis
