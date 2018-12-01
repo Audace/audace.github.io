@@ -18,7 +18,6 @@ To read:
 - [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_3?ie=UTF8&qid=1513522708&sr=8-3&keywords=da+vinci) by Walter Isaacson
 - [The Attention Economy: Understanding the New Currency of Business](https://www.amazon.com/Attention-Economy-Understanding-Currency-Business/dp/1578518717) by Thomas H. Davenport and John C. Beck
 - [Confessions of an Advertising Man](https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X) by David Olgivy
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
 - [The Path to Power (The Years of Lyndon Johnson, Volume 1)](https://www.amazon.com/Path-Power-Years-Lyndon-Johnson/dp/0679729453) by Robert A. Caro
 - [The House of Getty](https://www.amazon.com/House-Getty-Russell-Miller/dp/1448204356) by Russell Miller
 - [Attacks](https://www.amazon.com/Attacks-Erwin-Rommel/dp/0960273603/) by Erwin Rommel
@@ -43,6 +42,7 @@ To read:
 - [World Order](https://www.amazon.com/World-Order-Henry-Kissinger/dp/0143127713) by Henry Kissinger
 
 Favorites:
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
 - [War As I Knew It: The Battle Memoirs of Blood 'N Guts](https://www.amazon.com/War-As-Knew-Battle-Memoirs/dp/0553259911) by George S. Patton Jr.
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593) by Michael Lewis
 - [About Face: The Odyssey of an American Warrior](https://www.amazon.com/About-Face-Odyssey-American-Warrior/dp/0671695347) by Colonel David H. Hackworth
