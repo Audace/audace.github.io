@@ -14,12 +14,12 @@ maybe the business model shifts or a new technology is introduced - they become 
 drag. People need to invest a ton in onboarding them or pulling them along. They don't push themselves - or - if they do,
 they don't have the tools or drive to do it effectively. They spin their wheels.
 
-**Good engineers compound themselves to a point**. Prior to that point, their motivation compels them to become better. 
+**Good engineers compound themselves up to a point**. Prior to that point, their motivation compels them to become better. 
 Prior to that point, they are high performers. After that point, their output decreases and they have a high likelihood
 to churn. That point is where the companies' priorities have changed and are no longer able to align with the engineer's values
 (e.g. most important problems no longer "hard" in academic sense).
 
-**Great engineers compound themselves indefinitely**. What separates good vs. great engineers is (a) strong intrinsic motivation
+**Great engineers compound themselves indefinitely**. What separates good vs. great engineers is (a) a strong intrinsic motivation
 that is (b) driven by wanting to provide value and improve. This takes form in aggressive ownership, 
 personal development (reading, talks, etc), and wanting to understand the why. These are the engineers that stick through
 pivots, through rough patches, and are a pillar of sorts for an organization.
@@ -30,7 +30,7 @@ I find that what separates bad, good and great engineers is most often the type 
 The right type of motivation, by and large, can make up for lack of experience or expertise. Conversely, experience 
 and expertise rarely make up for poor motivation. This varies based on the context, of course, but in engineering (and
 especially at startups), I believe motivation accounts for a large percentage of output you'll see from a person over 
-the course of a reasonable time horizon (say, 6 to 9 months or more). But also over the course of a medium vs. long horizon
+the course of a reasonable time horizon (say, 6 to 9 months or more). But also over the course of a medium and long horizon
 (this is what separates good from great).
 
 ## Bad engineers focus on cost-minimization
@@ -55,9 +55,9 @@ will be able to see small local maxima of performance. Don't be excited, the imp
 ## Good engineers focus on value-extraction
 
 Good engineers are focused on extracting something of importance to them. The difference between good and great revolves
-around whether the "value" is aligned with the company (no = extraction, yes = maximization). Of the below types, there are likely companies,
-or stages of companies, where each type is well aligned with the environment and an engineer with that motivation _can_
-be great. Other times, this isn't the case... but the engineer will still be _good_ (or not _terrible_?).
+around whether the "value" is aligned with the company (no = extraction, yes = maximization). There are likely companies,
+or stages of companies, where these engineers are well aligned with the environment and an engineer with such motivation _can_
+be great. But there are times where this isn't the case... but the engineer will still be _good_ (or not _terrible_?).
 
 Two of the clearest archetypes of value-extracting engineers are those that care about hard problems and those that care
 about status.
@@ -82,7 +82,7 @@ about status.
   These engineers are fine as long as you can manage expectations and have the cashflow to keep them happy.
   
 The output for value-extracting engineers looks something like the graph below. They tend to continuously compound until
-they no longer can extract value from the company. This means the problems the company faces are no longer the problems
+they no longer can extract the value they seek from the company. This means the problems the company faces are no longer the problems
 they are interested in solving. Or the company is going through a rough patch and they no longer can keep the same 
 compensation trajectory that is important to them. Nonetheless, these engineers are normally powerhouses for a year or
 two. You just have to be comfortable with churn.
@@ -91,8 +91,8 @@ two. You just have to be comfortable with churn.
 
 ## Great engineers focus on value-maximization
 
-Great engineers are focused maximizing something of value to them. This value is driven by wanting to improve and provide
-value. This allows them to be fulfilled at various stages of a company's lifecycle. Below are some indicators that an 
+Great engineers are focused maximizing something of value to them. This value is frequently a desire improve and create an
+impact. This allows them to be fulfilled at various stages of a company's lifecycle. Below are some indicators that an 
 engineer is driven by maximizing value.
 
 **Symptoms**:
@@ -105,7 +105,7 @@ engineer is driven by maximizing value.
 - Obsessed with his or her trade, wants to be on the ball and _the_ person
 
 The corresponding graph is obviously optimisitic but the general characteristic stands. These engineers continuously improve and
-do so indefinitely. They are care about the value they provide to their coworkers and to the business. They care about
+do so indefinitely. They care about the value they provide to their coworkers and to the business. They care about
 becoming better at their trade. Since their trade is building software to drive value, both the way in which value is 
 driven (this can change with pivots) and what software is needed are somewhat independent of both their engagement and
 output.
