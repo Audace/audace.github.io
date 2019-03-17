@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching Programming in High Schools Will Be Useless
+title: Teaching programming in high schools will be useless
 comments: true
 ---
 

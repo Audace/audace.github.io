@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rejection Sucks. Decision Trees Make It Suck Less.
+title: Rejection sucks. Decision trees make it suck less.
 comments: true
 ---
 

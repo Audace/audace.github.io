@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Brief Guide to the Philly Tech Scene
+title: A brief guide to the Philly tech scene
 comments: true
 ---
 

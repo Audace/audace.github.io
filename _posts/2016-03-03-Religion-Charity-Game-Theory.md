@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Religion, Charity, and Game Theory
+title: Religion, charity, and game theory
 comments: true
 ---
 

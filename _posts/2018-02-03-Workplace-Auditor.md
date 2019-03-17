@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The U.S. Needs A Workplace Auditor
+title: The U.S. could benefit from a workplace auditor
 comments: true
 ---
 

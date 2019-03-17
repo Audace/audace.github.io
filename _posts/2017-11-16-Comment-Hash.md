@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Proposal for Keeping Code Comments Up-to-date
+title: A proposal for keeping code comments up-to-date
 comments: true
 ---
 
