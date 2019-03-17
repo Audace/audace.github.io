@@ -14,10 +14,10 @@ maybe the business model shifts or a new technology is introduced - they become 
 drag. People need to invest a ton in onboarding them or pulling them along. They don't push themselves - or - if they do,
 they don't have the tools or drive to do it effectively. They spin their wheels.
 
-**Good engineers compound themselves to a point**. That point is when the companies values are no longer aligned with their
-own (e.g. problems no longer "hard" in academic sense). Their motivation compels them to become better. They are often
-super high performers during a certain stage of the company. After that stage, there's no longer a good fit. I'll write
-more about this later.
+**Good engineers compound themselves to a point**. Up to that point, their motivation compels them to become better. 
+They are often super high performers during a certain stage of the company. After that stage, there's no longer a good fit.
+The point where that changes is when the companies' values are no longer aligned with the engineer's values
+(e.g. most important problems no longer "hard" in academic sense).
 
 **Great engineers compound themselves indefinitely**. What separates good vs. great engineers is (a) strong intrinsic motivation
 that is (b) driven by wanting to provide value and improve. This takes form in aggressive ownership, 
