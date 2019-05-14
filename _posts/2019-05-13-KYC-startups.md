@@ -83,5 +83,5 @@ will still be concentrated to people who look like Brad from the lacrosse club, 
 and the local communities, and country and world will miss out on some awesome companies that will change the lives of a 
 customer base that feels forgotten and is missing out on a lot.
 
-So yeah, this is all over the place but that was my line of thinking on the walk home from work.
- 
+So yeah, this is all over the place but that was my line of thinking on the walk home from work. In short, we should try to
+make outcome #2 happen and do our part to make it happen.
