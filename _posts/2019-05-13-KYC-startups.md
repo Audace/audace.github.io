@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd order effects of startups, KYC, and opportunity 
+title: Startups, KYC, and opportunity 
 comments: true
 ---
 
