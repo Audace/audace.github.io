@@ -23,13 +23,13 @@ And that the best way to build something that customers need is to speak with th
 Lastly, they'll also recommend that you build it yourself (or [find a technical cofounder](https://whartoniteseekscodemonkey-blog.tumblr.com/)).
 
 And their strategy seems to have worked pretty well! I mean Facebook was founded by Zuckerberg to solve a problem, of sorts.
-Namely, that he wanted to meet up with attractive partners despite not really knowing who these attractive partners living
-down the hall (or sitting one desk away) were. And so he built Facebook. Not sure if that's really the story, but you get
+Namely, that he wanted to meet up with attractive partners despite not really knowing who these attractive partners were (despite them living
+down the hall or sitting one desk away). And so he built Facebook. Not sure if that's really the story, but you get
 the point. And there are other examples too. Like Slack! One of the latest contestants in IPO SZN 2019. Slack was originally
 a gaming company (called Tiny Speck). They were annoyed at the state of IRC and set out to build their own workplace communication
 software. And now they've become a verb - success!
 
-The list goes on and on. And sure, you may start near your own pain and drift away from as find PMF - but at the end of the day
+The list goes on and on. And sure, you may start near your own pain and drift away from it as find PMF and speak to your customers - but at the end of the day
 it's fair to say that your odds of success are higher if you've been your own target customer in a past life and/or if
 you speak with them throughout product development, all while _developing_ the product yourself.
 
