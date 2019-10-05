@@ -4,10 +4,7 @@ title: Hard conversations
 comments: true
 ---
 
-I've probably mentioned this in a previous post, but assuming you're not the one regular 
-reader of this blog (who also happens to be named after its domain), over the past year 
-and a few days I've been managing teams. What exactly "managing" means is a question I 
-still am not qualified to answer. But... one thing which I can say managing _includes_ is having hard
+I've probably mentioned this in a previous post, but assuming you're not the one regular reader of this blog (who also happens to be named after its domain), over the past year and a half I've been managing teams. What exactly "managing" means is a question I still am not qualified to answer. But... one thing which I can say managing _includes_ is having hard
 conversations with teammates.
 
 As a manager, you are responsible for a number of different things like hiring, professional development, 
@@ -17,9 +14,9 @@ of senses.
 And so, when your team is composed of Bob, Sally, Mike, and Sue, and Mike's output is dropping and he stops
 showing up to standup on time and his pull requests include no comments, dead code, and break all the test cases, you, as the manager, should probably have a conversation with Mike. I think I read that somewhere in a book.
 
-So you think about what to say to Mike, and you're not sure what to say but you're pretty sure on what you don't want to happen. You don't want to hurt Mike's feelings. You don't want Mike to stop liking you. You don't want Mike to leave the conversation thinking how miserable of a boss you are. And yet... you **do** want Mike's output to miraculously sky rocket.
+So you think about what to say to Mike, and you're not sure what to say but you're pretty sure on what you don't want to happen. You don't want to hurt Mike's feelings. You don't want Mike to stop liking you. You don't want Mike to leave the conversation thinking how miserable of a boss you are. And yet... you _do_ want Mike's output to miraculously sky rocket.
 
-In short, you are being the world's biggest baby. You are scared of having a hard conversation. You, the over-achiever who someone thought should manage other people for no other reason that your skill as an individual contributo, have never seen a hard conversation go down. You haven't been on the receiving end. And all of your attempts at having them thus far have ended in confusing messaging with a colleague who isn't quite sure what you meant but is grateful for the cup of coffee you put on the company card.
+In short, you are being the world's biggest baby. You are scared of having a hard conversation. You - the over-achiever who someone thought should manage other people for no other reason than your skill as an individual contributor - have never witnesed a hard conversation. You haven't been on the receiving end. And all of your attempts at having them thus far have ended in confusing messages to a colleague who isn't quite sure what you meant but is grateful for the cup of coffee you put on the company card.
 
 **If this sounds familiar, you should probably resign.**
  
@@ -46,7 +43,7 @@ person. Your teammate can no longer argue as to how thoughtful they are with the
 
     **Bad**: Over the past few weeks, you've consistently seemed checked out.
 
-    **Good**: I noticed this across a number of the tickets from the last few sprints. For instance, I was really excited when I saw you were working to implement the magical widget in ticket 123 but felt bummed when I saw the state of the final PR. You left print statements throughout the code and all the integration tests failed. Most importantly, Marcia on customer success had specifically requested feature YYY and you neglected to implement it, despite the acceptance criteria requiring it.
+    **Good**: I noticed this across a number of the tickets from the last few sprints. For instance, I was really excited when I saw you were working to implement the magical widget in ticket 123 but felt bummed when I saw the state of the final PR. You left print statements and dead code throughout the submissions and all the integration tests failed. Most importantly, Marcia, on customer success, had specifically requested feature YYY and you neglected to implement it, despite the acceptance criteria requiring it.
 
 - **Identify potential causes and remedies**
 
@@ -59,13 +56,13 @@ person. Your teammate can no longer argue as to how thoughtful they are with the
 
 - **Write out talking points**
 
-   Why? Nerves. Until you've had a number of these conversations, the moment can be quite a blur. You immediately forget all of your remarks and the most salient points to get across. You look back and aren't sure exactly what you said or how he or she perceived it. By writing it out, you can flush out your thoughts: the 2-3 points to get across, the best way to get into meat of things, and how you'd like the conversation to unfold. Moreover, by writing it out, you can run it by your manager or HR and get feedback on how best to approach the day.
+   Why? Nerves. Until you've had a number of these conversations, the moment can be quite a blur. You immediately forget all of your remarks and the most salient points to get across. You look back and aren't sure exactly what you said or how he or she perceived it. By writing it out, you can flush out your thoughts: the 2-3 points to get across, the best way to get into heart of the issue, and how you'd like the conversation to unfold. Moreover, by writing it out, you can run it by your manager or HR and get feedback on how best to approach the day.
 
    Don't forget - take your notes with you!!! This is by no means an amateur move and shows that you've given the situation the thought and care that your report deserves.
 
 - **Practice**
 
-   Run through your points a few times before. Make sure that you're not softening the message or meandering. You owe your report honesty and clarity. Practice ensures this.
+   Run through your points a few times before. Make sure that you're not softening the message or meandering. You owe your teammate honesty and clarity. Practice ensures this.
 
 ### How to survive Doomsday
 
@@ -85,10 +82,10 @@ person. Your teammate can no longer argue as to how thoughtful they are with the
 
 - **Be vulnerable**
 
-   Don't shy away from empathizing and sharing examples of similar situations that you have been in. Relatedly, you should let them do as much talking as possible and follow up with questions. The ideal outcome is that you land on the same page about the what, the why, and the how (the situation is going to be remedied).
+   Don't shy away from empathizing and sharing examples of similar situations that you have been in. Relatedly, you should let them do as much talking as possible and follow up with questions. The ideal outcome is that you land on the same page about the what, the why, and the how (the situation is going to be remedied). Additionally, you're both making it clear that the status quo is unacceptable but also showing that you're there to help.
 
 - **Leave with action items**
 
-   Ask what they need from you. Suggest next steps. Assign dates and owners. It's important that you follow up after these conversations. Otherwise, all of the prep and emotional toll was for nothing. More importantly, it shows that you take the matter seriously.
+   Ask what they need from you. Suggest next steps. Assign dates and owners. It's important that you follow up after these conversations. Otherwise, all of the prep and emotional toll was for nothing. More importantly, it shows that you take the matter seriously and increases the likelihood of resolving the matter.
 
 [^1] _Note_: Often times, poor output may be the result of a number of behaviors. When this is the case, either try to find a specific higher level theme or pick the most problematic behavior. DO NOT try to broach multiple issues at once. This leaves people feeling defensive and dilutes the message.
