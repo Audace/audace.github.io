@@ -16,7 +16,7 @@ These apps need to accomplish **2** things in order to **not** be guaranteed fai
 
 1. **They must provide a lot of value.**
 
-    This isn't a controversial statement. The typical Silicon Valley sound bites say that any startup must provide a 10x improvement over the current status (whether that's price, quality, quantity, feature set, etc).  However, the level of value required for a discrete app to not value is even more important to consider.
+    This isn't a controversial statement. The typical Silicon Valley sound bites say that any startup must provide a 10x improvement over the current status (whether that's price, quality, quantity, feature set, etc).  However, the level of value required for a discrete app to not be dead is even more important to consider.
     
     It is important because of the frequency of use. A discrete app is not often in a user's daily routine. Such an app is not often in a user's working memory. It occupies a small space in its users' heads, if at all. In order to be called upon by whatever trigger - the need to find a place to eat, the need to get to a spot across town - the app must cement its value in relation to a certain action or need.
 
