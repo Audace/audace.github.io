@@ -33,4 +33,4 @@ Favorites:
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/) by Andrew Grove
 - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355) by Matthew Dixon and Brent Adamson
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
-- [A First-Rate Madness: Uncovering the Links Between Leadership and Mental Illness](https://www.amazon.com/First-Rate-Madness-Uncovering-Between-Leadership/dp/0143121332) by Nassir Ghaemi
+- [Meditations](https://www.amazon.com/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337) by Marcus Aurelius
