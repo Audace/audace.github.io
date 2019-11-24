@@ -16,7 +16,7 @@ In engineering staff meetings, sprint planning, etc, we'll come across questions
 
 These are very standard questions in an early-stage startup. I like framing them in the analogy of **[shots on goal](https://en.wikipedia.org/wiki/Shot_on_goal_(ice_hockey))**. A shot on goal is a metric used in ice hockey and soccer. It means a shot of the puck or ball that was directed to the goal and either went in, or would have gone in. The metric is a proxy for the **number** and **quality** of attempts on goal. If the shot was wildly out of aim, it was not a shot on goal (_quality_). If no shot was able to be taken, it was not a shot on goal (_quantity_).
 
-**Engineers at early stage startups are responsible for maximizing shots on goal.**<sup>1</sup>. This means allowing the org to take as many shots as possible and ensuring that they're high quality, or have a chance of going in.
+**Engineers at early stage startups are responsible for maximizing shots on goal.**<sup>1</sup> This means allowing the org to take as many shots as possible and ensuring that they're high quality, or have a chance of going in.
 
 As an engineer, you may not always be deciding what shots to take and how exactly to aim. But, you can ensure that the shots are taken quickly, are high quality, and provide information back to product on their quality. 
 
