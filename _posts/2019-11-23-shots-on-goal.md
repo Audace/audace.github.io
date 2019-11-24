@@ -37,7 +37,7 @@ Applied towards some of the questions above, you begin to see a few rules of thu
 
 - Make sure you **run [smoke tests](https://en.wikipedia.org/wiki/Smoke_testing_(software))** thoroughly
 
-    If your organization has put in the time to prioritize, define, design, and market a new feature or product,the absolute worst thing to happen is to botch it with critical errors. This results in wasted time and money. It often can affect existing experiments, meaning it'll be hard to know if previous shots were "on goal." Spend time to run the critical tests. This does not need to be automated.
+    If your organization has put in the time to prioritize, define, design, and market a new feature or product, the absolute worst thing to happen is to botch it with critical, preventable errors. This results in wasted time and money. It often can affect existing experiments, meaning it'll be hard to know if previous shots were "on goal." Spend time to run the critical tests. This does not need to be automated.
 
 - Align cross-functional team members in **small, cohesive units**
 
