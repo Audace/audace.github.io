@@ -28,7 +28,7 @@ Applied towards some of the questions above, you begin to see a few rules of thu
 
 - Ensure you spend time to **add analytics**
 
-    There's an important nuance to consider with last two words of the phrase - "on goal". Humans are great at learning and iterating - honing in on a target. In order to make more shots be ones "on goal," you need to know whether each shot was accurate and if not, what needs to be corrected for your next shot to be on goal.
+    There's an important nuance to consider with last two words of the phrase - "on goal". Humans are great at learning and iterating - honing in on a target. In order to make more shots be ones "on goal" in a PMF sense, you need to know whether each shot was accurate and if not, what needs to be corrected for your next shot to be on goal.
     This is where analytics are important.
 
 - Use **managed services**
