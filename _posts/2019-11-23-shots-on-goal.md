@@ -4,7 +4,7 @@ title: Shots on goal
 comments: true
 ---
 
-I've found myself using the same analogy a good bit the past few months at work. It's about maximizing the number and quality of shots on goal. We're in the midst of launching at consumer product. As we iterate on the concept and work towards achieving product-market-fit, I find the analogy useful for communicating decision making and prioritization. In general, analogies and decision frameworks are great ways to scale decision making. If everyone is aligned on how to make decisions, you don't need to be involved in making every one.
+I've found myself using the same analogy a good bit the past few months at work. It's about maximizing the number and quality of shots on goal. We're in the midst of launching a consumer product. As we iterate on the concept and work towards achieving product-market-fit, I find the analogy useful for communicating decision making and prioritization. In general, analogies and decision frameworks are great ways to scale decision making. If everyone is aligned on how to make decisions, you don't need to be involved in making every one.
 
 In engineering staff meetings, sprint planning, etc, we'll come across questions like these:
 - How much should we prioritize this category of tech debt?
